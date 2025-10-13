@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-pydantic
+pydantic-settings
 python-dotenv
 psycopg2-binary        # 또는 sqlalchemy[postgresql]
 sqlalchemy

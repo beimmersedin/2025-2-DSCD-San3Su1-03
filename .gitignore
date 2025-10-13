@@ -1,0 +1,18 @@
+# 가상환경 폴더
+.venv/
+venv/
+env/
+dscd/
+
+# 캐시/로그
+__pycache__/
+*.pyc
+*.log
+
+# OS별 임시파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정 (PyCharm, VSCode 등)
+.vscode/
+.idea/
