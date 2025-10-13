@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+pydantic
+python-dotenv
+psycopg2-binary        # 또는 sqlalchemy[postgresql]
+sqlalchemy
+shapely
+haversine
+requests
+Pillow
+exifread
+pydeck
+boto3                  # S3 사용 시
+openai                 # OpenAI API
