@@ -79,7 +79,7 @@ def create_user(engine, email: str, password: str) -> bool:
         return False
 
 def get_user_by_email(engine, email: str):
-    sql = "SELECT id, email, password_hash, created_at FROM users WHERE email = :email"
+    sql = "SELECT user_id, email, password_hash, created_at FROM users WHERE email = :email"
     with engine.begin() as conn:
         row = conn.execute(text(sql), {"email": email.lower().strip()}).fetchone()
         return dict(row._mapping) if row else None
@@ -89,7 +89,7 @@ def get_user_by_email(engine, email: str):
 # ---------------------------------------------------------
 def login_user(user_dict: dict):
     st.session_state["auth"] = {
-        "user_id": user_dict["id"],
+        "user_id": user_dict["user_id"],
         "email": user_dict["email"],
         "login_at": datetime.utcnow().isoformat()
     }
