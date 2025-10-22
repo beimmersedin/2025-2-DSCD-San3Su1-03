@@ -13,3 +13,4 @@ exifread
 pydeck
 boto3                  # S3 사용 시
 openai                 # OpenAI API
+bcrypt
