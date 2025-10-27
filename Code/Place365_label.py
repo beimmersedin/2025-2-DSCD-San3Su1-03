@@ -40,7 +40,7 @@ def label_image(image_path):
     with torch.no_grad():
         output = model(input_tensor)
         probs = torch.nn.functional.softmax(output[0], dim=0)
-    top5_prob, top5_catid = torch.topk(probs, 5)
+    top5_prob, top5_catid = torch.topk(probs, 5) #top_k개, 수정시 숫자만 변경
 
     labels = [(classes[top5_catid[i]], round(top5_prob[i].item()*100, 2)) for i in range(5)]
     return labels

@@ -78,7 +78,7 @@ def crawl_kakao_map(keyword, max_pages, driver):
             search_button = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.ID, "search.keyword.submit"))
             )
-            search_button.click()
+            search_button.click() #클릭
             
         except TimeoutException:
             st.error("검색 버튼을 클릭 가능한 상태로 찾지 못했습니다. 페이지 구조를 확인하세요.")
