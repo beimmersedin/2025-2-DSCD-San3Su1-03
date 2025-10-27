@@ -21,6 +21,11 @@ class LocalStorage(Storage):
             shutil.copyfileobj(fileobj, f)
         return "local-etag"  # 업로드 성공표시
     
+    def get(self, key):
+        path = self.root / key
+        with open(path, "rb") as f:
+            return BytesIO(f.read())
+    
     def url(self, key):
         return str(self.root / key)
 
@@ -48,6 +53,12 @@ class S3Storage(Storage):
         head = self.s3.head_object(Bucket=self.bucket, Key=key)
         return head.get("ETag")
     
+    def get(self, key):
+        """S3에서 파일을 BytesIO 형태로 가져오기"""
+        resp = self.s3.get_object(Bucket=self.bucket, Key=key)
+        data = resp["Body"].read()
+        return BytesIO(data)
+
     def url(self, key, expires=3600):
         return self.s3.generate_presigned_url(
             ClientMethod="get_object",

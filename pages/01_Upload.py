@@ -32,38 +32,43 @@ if hasattr(storage, "bucket"):
     st.caption(f"Bucket: **{getattr(storage, 'bucket', None)}**")
 
 imgs_id = st.number_input("IMGS ID", min_value=1, step=1)
-file = st.file_uploader("Select an image", type=["jpg","jpeg","png"])
+files = st.file_uploader("Select an image", type=["jpg","jpeg","png"], accept_multiple_files=True)
 
-if file and imgs_id:
-    img = Image.open(file).convert("RGB")
-    raw = BytesIO()
-    img.save(raw, format="JPEG", quality=92)
+if files and imgs_id:
+    for file in files:
+        img = Image.open(file).convert("RGB")
+        raw = BytesIO()
+        img.save(raw, format="JPEG", quality=92)
+        data = raw.getvalue()        # 바이트를 미리 확보
+        size = len(data)             # DB에 넣을 파일 크기  
+        key  = f"users/{user_id}/imgs/{int(imgs_id)}/original/{uuid.uuid4()}.jpg"
 
-    data = raw.getvalue()        # 바이트를 미리 확보
-    size = len(data)             # DB에 넣을 파일 크기
-    key  = f"imgs/{int(imgs_id)}/original/{uuid.uuid4()}.jpg"
+        # 4) S3/Local 업로드
+        try:
+            etag = storage.put(BytesIO(data), key, content_type="image/jpeg")
+            st.success(f"[{file.name}] 업로드 완료 (etag={etag})")
+        except Exception as e:
+            st.error(f"S3 업로드 실패: {e!r}")
+            continue
 
-    # 4) S3/Local 업로드
-    try:
-        etag = storage.put(BytesIO(data), key, content_type="image/jpeg")
-        st.success(f"PUT OK → {key} (etag={etag})")
-    except Exception as e:
-        st.exception(e); st.stop()
+        # 5) DB 적재 (user_id는 세션에서)
+        try:
+            photo_id = insert_photo_record(
+                user_id=user_id,
+                bucket=getattr(storage, "bucket", "local-bucket"),
+                key=key,
+                content_type="image/jpeg",
+                size=size,
+                taken_at=None, lon=None, lat=None
+            )
+            st.success(f"DB 기록 완료 → photo_id={photo_id}")
+        except Exception as e:
+            st.error(f"DB insert 실패: {e!r}")
+            continue
 
-    # 5) DB 적재 (user_id는 세션에서)
-    try:
-        photo_id = insert_photo_record(
-            user_id=user_id,
-            bucket=getattr(storage, "bucket", "local-bucket"),
-            key=key,
-            content_type="image/jpeg",
-            size=size,
-            taken_at=None, lon=None, lat=None
-        )
-        st.success(f"DB insert OK → photo_id={photo_id}")
-    except Exception as e:
-        st.exception(e); st.stop()
-
-    # 6) 미리보기
-    st.image(img, caption=key, use_container_width=True)
-    st.write("Preview URL:", storage.url(key))
+        # 6) 미리보기
+        try:
+            st.image(img, caption=file.name, use_container_width=True)
+            st.write("Preview URL:", storage.url(key))
+        except Exception:
+            st.info("Local backend: presigned URL 없음")
