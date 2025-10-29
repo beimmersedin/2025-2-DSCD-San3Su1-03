@@ -1,11 +1,20 @@
 import os
 import time
 import bcrypt
-import streamlit as st
 from datetime import datetime
 from sqlalchemy import create_engine, text
 from sqlalchemy.exc import IntegrityError
 from dotenv import load_dotenv
+import streamlit as st
+
+st.markdown("""
+    <style>
+    /* 기본 사이드바 네비게이션 숨기기 */
+    [data-testid="stSidebarNav"] { display: none; }
+    </style>
+""", unsafe_allow_html=True)
+
+
 
 # ---------------------------------------------------------
 # 0) DB 접속 정보 불러오기 (secrets 우선, 없으면 환경변수 사용)
@@ -101,15 +110,57 @@ def is_logged_in():
     return "auth" in st.session_state
 
 # ---------------------------------------------------------
+# 3-1) 커스텀 사이드바 렌더 함수
+# ---------------------------------------------------------
+def render_sidebar():
+    with st.sidebar:
+        if not is_logged_in():
+            # 로그인 전: 사이드바 비움
+            st.empty()
+            return
+
+        st.markdown("### 메뉴")
+        # 파일명은 너 프로젝트의 실제 파일명/경로에 맞춰 수정!
+        # st.page_link가 있으면 그걸 추천, 없으면 st.button + st.switch_page 사용
+        try:
+            st.page_link("pages/01_MyPage.py", label="My page", icon="👤")
+            st.page_link("pages/02_Route.py", label="Route visualization", icon="🗺️")
+            st.page_link("pages/03_Summary.py", label="AI summary", icon="📝")
+            st.page_link("pages/04_NextRec.py", label="Next recommendation", icon="✨")
+        except Exception:
+            # 구버전 Streamlit이면 버튼 + switch_page로 대체
+            if st.button("👤 My Page"): st.switch_page("pages/01_MyPage.py")
+            if st.button("🗺️ Route Visualization"): st.switch_page("pages/02_Route.py")
+            if st.button("📝 AI Summary"): st.switch_page("pages/03_Summary.py")
+            if st.button("✨ Next Recommendation"): st.switch_page("pages/04_NextRec.py")
+
+        st.divider()
+        if st.button("로그아웃"):
+            logout_user()
+            st.success("로그아웃 되었습니다.")
+            st.rerun()
+
+
+# ---------------------------------------------------------
 # 4) UI
 # ---------------------------------------------------------
 st.set_page_config(page_title="Life-Recorder Demo", page_icon="📍", layout="centered")
+
+# 커스텀 사이드바 표시
+render_sidebar()
+
+if "auth" in st.session_state:
+    try:
+        st.switch_page("pages/00_Upload.py")
+    except:
+        pass
+
 st.title("📍Life Recorder (Streamlit + PostgreSQL)📍")
 
 engine = get_engine()
 ensure_schema(engine)
 
-tab_login, tab_signup, tab_profile = st.tabs(["로그인", "회원가입", "내 정보"])
+tab_login, tab_signup = st.tabs(["로그인", "회원가입"])
 
 with tab_signup:
     st.subheader("회원가입")
@@ -154,19 +205,19 @@ with tab_login:
             else:
                 login_user(user)
                 st.success("로그인 성공!")
-                # 간단한 UX: 성공 후 살짝 대기 → rerun
-                time.sleep(0.5)
-                st.rerun()
+                time.sleep(0.7)
+                 # ✅ 로그인 성공 → 바로 Upload 페이지 이동
+                st.switch_page("pages/00_Upload.py") 
 
-with tab_profile:
-    st.subheader("내 정보")
-    if not is_logged_in():
-        st.warning("로그인이 필요합니다.")
-    else:
-        auth = st.session_state["auth"]
-        st.write(f"**이메일**: {auth['email']}")
-        # 실제 서비스라면 여기에 프로필 수정, 비밀번호 변경 로직 등을 추가
-        if st.button("로그아웃", key="logout_btn2"):
-            logout_user()
-            st.success("로그아웃 되었습니다.")
-            st.rerun()
+# with tab_profile:
+#     st.subheader("내 정보")
+#     if not is_logged_in():
+#         st.warning("로그인이 필요합니다.")
+#     else:
+#         auth = st.session_state["auth"]
+#         st.write(f"**이메일**: {auth['email']}")
+#         # 실제 서비스라면 여기에 프로필 수정, 비밀번호 변경 로직 등을 추가
+#         if st.button("로그아웃", key="logout_btn2"):
+#             logout_user()
+#             st.success("로그아웃 되었습니다.")
+#             st.rerun()

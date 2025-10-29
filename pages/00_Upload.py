@@ -1,9 +1,15 @@
-# pages/01_Upload.py (상단 일부)
+# pages/00_Upload.py
 import sys, os, uuid
 import streamlit as st
+import time
 from PIL import Image
 from io import BytesIO
 from dotenv import load_dotenv
+from app import render_sidebar, is_logged_in
+from core.ui import hide_default_nav
+
+hide_default_nav()
+render_sidebar()
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
@@ -18,6 +24,8 @@ st.title("Image Upload")
 auth = st.session_state.get("auth")
 if not auth or "user_id" not in auth:
     st.warning("로그인이 필요합니다. 먼저 로그인 페이지에서 로그인해주세요.")
+    time.sleep(2)
+    st.switch_page("app.py")
     st.stop()
 
 # 2) 로그인된 사용자 ID 확보
