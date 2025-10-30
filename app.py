@@ -7,12 +7,7 @@ from sqlalchemy.exc import IntegrityError
 from dotenv import load_dotenv
 import streamlit as st
 
-st.markdown("""
-    <style>
-    /* 기본 사이드바 네비게이션 숨기기 */
-    [data-testid="stSidebarNav"] { display: none; }
-    </style>
-""", unsafe_allow_html=True)
+
 
 
 
@@ -49,17 +44,7 @@ def get_engine():
 # ---------------------------------------------------------
 # 1) 초기 스키마 생성 (users 테이블)
 # ---------------------------------------------------------
-def ensure_schema(engine):
-    create_sql = """
-    CREATE TABLE IF NOT EXISTS users (
-        id SERIAL PRIMARY KEY,
-        email TEXT UNIQUE NOT NULL,
-        password_hash TEXT NOT NULL,
-        created_at TIMESTAMPTZ NOT NULL DEFAULT NOW()
-    );
-    """
-    with engine.begin() as conn:
-        conn.execute(text(create_sql))
+
 
 # ---------------------------------------------------------
 # 2) 회원가입/로그인 비즈니스 로직
@@ -141,73 +126,83 @@ def render_sidebar():
             st.rerun()
 
 
-# ---------------------------------------------------------
-# 4) UI
-# ---------------------------------------------------------
-st.set_page_config(page_title="Life-Recorder Demo", page_icon="📍", layout="centered")
+def main():
+    st.set_page_config(page_title="Life-Recorder Demo", page_icon="📍", layout="centered")
+    st.markdown("""
+        <style>
+        [data-testid="stSidebarNav"] { display: none; }
+        </style>
+    """, unsafe_allow_html=True)
 
-# 커스텀 사이드바 표시
-render_sidebar()
-
-if "auth" in st.session_state:
-    try:
-        st.switch_page("pages/00_Upload.py")
-    except:
-        pass
-
-st.title("📍Life Recorder (Streamlit + PostgreSQL)📍")
-
-engine = get_engine()
-ensure_schema(engine)
-
-tab_login, tab_signup = st.tabs(["로그인", "회원가입"])
-
-with tab_signup:
-    st.subheader("회원가입")
-    with st.form("signup_form", clear_on_submit=False):
-        new_email = st.text_input("이메일", placeholder="you@example.com")
-        new_pw = st.text_input("비밀번호", type="password")
-        new_pw2 = st.text_input("비밀번호 확인", type="password")
-        submitted = st.form_submit_button("회원가입")
-
-    if submitted:
-        if new_pw != new_pw2:
-            st.error("비밀번호 확인이 일치하지 않습니다.")
-        elif len(new_pw) < 8:
-            st.error("비밀번호는 8자 이상을 권장합니다.")
-        else:
-            ok = create_user(engine, new_email, new_pw)
-            if ok:
-                st.success("회원가입 완료! 이제 로그인 탭에서 로그인하세요.")
-            else:
-                st.warning("이미 가입된 이메일입니다.")
-
-with tab_login:
-    st.subheader("로그인")
+    # 0) 이미 로그인 → 업로드로
     if is_logged_in():
-        st.info(f"이미 로그인됨: {st.session_state['auth']['email']}")
-        if st.button("로그아웃"):
-            logout_user()
-            st.success("로그아웃 되었습니다.")
+        st.switch_page("pages/00_Upload.py")
+        st.stop()
+
+    # 1) 직전 사이클에서 리다이렉트 예정이면 바로 이동
+    if st.session_state.pop("login_redirect", False):
+        st.switch_page("pages/00_Upload.py")
+        st.stop()
+
+    # 2) '로그인 시도'가 올라왔으면, 탭 만들기 전에 인증 처리
+    pending = st.session_state.pop("_pending_login", None)
+    if pending:
+        eng_auth = get_engine()  # ← 이름 다르게
+        user = get_user_by_email(eng_auth, pending["email"])
+        if (user is not None) and verify_password(pending["pw"], user["password_hash"]):
+            login_user(user)
+            st.session_state["login_redirect"] = True
             st.rerun()
-    else:
-        with st.form("login_form"):
-            email = st.text_input("이메일", placeholder="you@example.com", key="login_email")
-            pw = st.text_input("비밀번호", type="password", key="login_pw")
-            remember = st.checkbox("로그인 유지 (브라우저 세션 동안)")
-            submitted = st.form_submit_button("로그인")
-        if submitted:
-            user = get_user_by_email(engine, email)
-            if not user:
-                st.error("존재하지 않는 이메일입니다.")
-            elif not verify_password(pw, user["password_hash"]):
-                st.error("비밀번호가 올바르지 않습니다.")
-            else:
-                login_user(user)
-                st.success("로그인 성공!")
-                time.sleep(0.7)
-                 # ✅ 로그인 성공 → 바로 Upload 페이지 이동
-                st.switch_page("pages/00_Upload.py") 
+        else:
+            st.session_state["_login_error"] = "이메일 또는 비밀번호가 올바르지 않습니다."
+
+    st.title("📍Life Recorder (Streamlit + PostgreSQL)📍")
+
+    # 3) 미로그인일 때만 탭 렌더
+    if not is_logged_in():
+        if st.session_state.pop("_login_error", None):
+            st.error("이메일 또는 비밀번호가 올바르지 않습니다.")
+
+        tab_login, tab_signup = st.tabs(["로그인", "회원가입"])
+
+        # ---------------- 회원가입 ----------------
+        with tab_signup:
+            st.subheader("회원가입")
+            with st.form("signup_form", clear_on_submit=False):
+                new_email = st.text_input("이메일", placeholder="you@example.com")
+                new_pw = st.text_input("비밀번호", type="password")
+                new_pw2 = st.text_input("비밀번호 확인", type="password")
+                submitted_signup = st.form_submit_button("회원가입")
+            if submitted_signup:
+                if new_pw != new_pw2:
+                    st.error("비밀번호 확인이 일치하지 않습니다.")
+                elif len(new_pw) < 8:
+                    st.error("비밀번호는 8자 이상을 권장합니다.")
+                else:
+                    eng_signup = get_engine()  # ← 여기서도 지역 변수명 다르게
+                    ok = create_user(eng_signup, new_email, new_pw)
+                    if ok:
+                        st.success("회원가입 완료! 이제 로그인 탭에서 로그인하세요.") 
+                    else: 
+                        st.warning("이미 가입된 이메일입니다.")
+
+        # ---------------- 로그인 ----------------
+        with tab_login:
+            st.subheader("로그인")
+            with st.form("login_form"):
+                email = st.text_input("이메일", placeholder="you@example.com", key="login_email")
+                pw = st.text_input("비밀번호", type="password", key="login_pw")
+                remember = st.checkbox("로그인 유지 (브라우저 세션 동안)")
+                submitted_login = st.form_submit_button("로그인")
+
+            if submitted_login:
+                # 폼에서는 실제 인증 X → 플래그만 세팅 후 즉시 rerun
+                st.session_state["_pending_login"] = {"email": email, "pw": pw}
+                st.rerun()
+
+
+if __name__ == "__main__":
+    main() 
 
 # with tab_profile:
 #     st.subheader("내 정보")
