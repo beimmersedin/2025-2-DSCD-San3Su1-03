@@ -2,7 +2,7 @@ import os, streamlit as st
 from openai import OpenAI
 from core.config import get_openai_client
 from core.storage import get_storage
-from core.vision import normalize_image, upload_bytes_for_vision, analyze_photo_fileid, generate_diary
+from core.vision import normalize_image, analyze_photo_bytes, generate_diary
 import tempfile
 
 st.title("📸 AI 여행일기 생성")
@@ -35,15 +35,9 @@ if st.button("✏️ 여행일기 생성하기"):
             raw = storage.get(key).read()
             # 2) Vision friendly resizing
             norm = normalize_image(raw)
-            # ✅ 3) OpenAI에 파일 업로드 → file_id 생성
-            with tempfile.NamedTemporaryFile(delete=False, suffix=".jpg") as tmp:
-                tmp.write(norm)
-                tmp_path = tmp.name
-            f = client.files.create(file=open(tmp_path, "rb"), purpose="vision")
-            file_id = f.id
 
-            # ✅ 4) Vision 분석
-            result = analyze_photo_fileid(file_id, client)
+            # ✅ 3) Vision 분석
+            result = analyze_photo_bytes(norm, client)
             photos.append({"key": key, **result})
 
     photo_metadata = {"trip_date": "N/A", "weather": "N/A", "photos": photos}
