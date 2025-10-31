@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 auth = st.session_state.get("auth")
 if not auth or "user_id" not in auth:
     # 안내는 업로드 페이지에서 하지 말고, 로그인 페이지로 즉시 전환
+    st.warning("로그인 후에 업로드가 가능해요.")
     st.switch_page("app.py")
     st.stop()
 

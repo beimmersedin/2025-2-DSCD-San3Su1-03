@@ -1,5 +1,5 @@
 # core/vision.py
-import json, os, tempfile, base64
+import json, base64
 from io import BytesIO
 from PIL import Image
 from typing import Dict

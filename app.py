@@ -121,8 +121,9 @@ def render_sidebar():
 
         st.divider()
         if st.button("로그아웃"):
-            logout_user()
             st.success("로그아웃 되었습니다.")
+            time.sleep(2)
+            logout_user()
             st.rerun()
 
 

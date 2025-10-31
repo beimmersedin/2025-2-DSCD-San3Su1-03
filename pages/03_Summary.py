@@ -1,16 +1,26 @@
-import os, streamlit as st
+import streamlit as st
 from openai import OpenAI
 from core.config import get_openai_client
 from core.storage import get_storage
 from core.vision import normalize_image, analyze_photo_bytes, generate_diary
-import tempfile
+import time
+
+def apply_ui():
+    from core.ui import hide_default_nav
+    hide_default_nav()
+    from app import render_sidebar as _render_sidebar
+    _render_sidebar()
+
+apply_ui() 
 
 st.title("📸 AI 여행일기 생성")
 
-# Upload 페이지에서 선택한 s3 키들을 세션으로 전달했다고 가정
+# Upload 페이지에서 선택한 s3 키들을 세션으로 전달
 keys = st.session_state.get("selected_image_keys", [])
 if not keys:
     st.warning("먼저 Upload 페이지에서 이미지를 업로드하세요.")
+    time.sleep(0.7)
+    st.switch_page("pages/00_Upload.py")
     st.stop()
 
 st.write(f"선택된 이미지 개수: {len(keys)}")
@@ -35,8 +45,7 @@ if st.button("✏️ 여행일기 생성하기"):
             raw = storage.get(key).read()
             # 2) Vision friendly resizing
             norm = normalize_image(raw)
-
-            # ✅ 3) Vision 분석
+            # 3) Vision 분석
             result = analyze_photo_bytes(norm, client)
             photos.append({"key": key, **result})
 
