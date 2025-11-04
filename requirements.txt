@@ -14,3 +14,10 @@ pydeck
 boto3                  # S3 사용 시
 openai                 # OpenAI API
 bcrypt
+tqdm
+open_clip
+PIL
+torch
+torchvision
+os
+io
