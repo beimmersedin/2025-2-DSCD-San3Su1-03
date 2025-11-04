@@ -1,0 +1,1024 @@
+﻿사진번호,파일명,라벨1,확률1(%),라벨2,확률2(%),라벨3,확률3(%),최상위라벨,최상위확률(%)
+1,갈비_골목갈비_1838.jpg,arcade,21.99,street,10.77,downtown,10.72,arcade,21.99
+2,갈비_초량골목갈비_1806.jpg,bakery/shop,81.14,butchers_shop,3.89,delicatessen,3.42,bakery/shop,81.14
+3,갈비_초량골목갈비_1807.jpg,catacomb,68.5,archaelogical_excavation,7.75,bakery/shop,5.22,catacomb,68.5
+4,갈비_초량골목갈비_1808.jpg,bakery/shop,80.04,butchers_shop,8.35,delicatessen,6.13,bakery/shop,80.04
+5,갤러리카페_스타파이브_1066.jpg,restaurant_patio,11.36,diner/outdoor,11.32,parking_garage/outdoor,9.93,restaurant_patio,11.36
+6,"고궁,궁_경복궁_241.jpg",pagoda,43.34,temple/asia,34.96,palace,8.31,pagoda,43.34
+7,"고궁,궁_경희궁_264.jpg",palace,33.74,temple/asia,21.35,pagoda,9.3,palace,33.74
+8,"고궁,궁_경희궁_266.jpg",valley,23.13,mountain,19.64,rice_paddy,8.13,valley,23.13
+9,"고궁,궁_용흥궁_1241.jpg",staircase,17.15,stable,13.3,courtyard,9.55,staircase,17.15
+10,"고궁,궁_용흥궁_1242.jpg",temple/asia,59.56,pagoda,10.11,zen_garden,7.69,temple/asia,59.56
+11,"고궁,궁_용흥궁_1243.jpg",burial_chamber,33.5,jail_cell,16.51,alcove,14.1,burial_chamber,33.5
+12,"고궁,궁_운현궁_267.jpg",zen_garden,33.22,temple/asia,29.47,courtyard,27.93,zen_garden,33.22
+13,"고궁,궁_운현궁_268.jpg",building_facade,17.45,temple/asia,9.21,museum/outdoor,6.81,building_facade,17.45
+14,"고궁,궁_운현궁_269.jpg",shopfront,14.87,temple/asia,13.13,ticket_booth,12.84,shopfront,14.87
+15,"고궁,궁_창덕궁_244.jpg",palace,33.22,temple/asia,29.43,pagoda,19.76,palace,33.22
+16,"고궁,궁_창덕궁_246.jpg",temple/asia,17.42,palace,12.24,pagoda,11.81,temple/asia,17.42
+17,"고궁,궁_화성행궁_759.jpg",temple/asia,59.16,pagoda,20.25,ticket_booth,14.01,temple/asia,59.16
+18,공원_동탄호수공원_629.jpg,skyscraper,22.54,downtown,19.6,lake/natural,8.1,skyscraper,22.54
+19,공원_동탄호수공원_630.jpg,park,15.56,museum/outdoor,11.69,topiary_garden,9.15,park,15.56
+20,공원_동탄호수공원_631.jpg,downtown,26.5,skyscraper,23.23,canal/urban,17.12,downtown,26.5
+21,공원_동호수어린이공원_133.jpg,field/cultivated,80.54,vineyard,6.65,farm,3.2,field/cultivated,80.54
+22,공원_동호수어린이공원_134.jpg,zen_garden,34.07,pond,7.84,fishpond,7.69,zen_garden,34.07
+23,공원_동호수어린이공원_135.jpg,airport_terminal,27.43,lobby,24.81,entrance_hall,6.58,airport_terminal,27.43
+24,공원_왕송호수공원_662.jpg,park,58.91,picnic_area,8.0,boardwalk,7.79,park,58.91
+25,공원_은계호수공원_646.jpg,bridge,39.66,viaduct,8.66,highway,4.67,bridge,39.66
+26,공원_인천대공원 수목원길_1092.jpg,rainforest,44.47,forest/broadleaf,28.2,botanical_garden,11.7,rainforest,44.47
+27,공원_인천대공원 수목원길_1093.jpg,forest/broadleaf,42.61,botanical_garden,25.69,japanese_garden,10.89,forest/broadleaf,42.61
+28,공원_인천대공원 수목원길_1094.jpg,bamboo_forest,50.21,rainforest,14.43,forest/broadleaf,3.35,bamboo_forest,50.21
+29,국수_국수골목 계양점_1361.jpg,butchers_shop,99.99,delicatessen,0.0,supermarket,0.0,butchers_shop,99.99
+30,국수_국수골목 계양점_1362.jpg,bakery/shop,52.77,delicatessen,14.28,restaurant_kitchen,8.2,bakery/shop,52.77
+31,국수_국수골목 계양점_1363.jpg,bakery/shop,38.39,market/outdoor,34.63,delicatessen,8.16,bakery/shop,38.39
+32,국수_국수골목 연수점_1379.jpg,delicatessen,56.1,bakery/shop,19.88,restaurant,8.94,delicatessen,56.1
+33,국수_국수골목 연수점_1380.jpg,shopfront,79.39,diner/outdoor,3.14,pharmacy,2.71,shopfront,79.39
+34,국수_국수골목 연수점_1381.jpg,ice_cream_parlor,48.96,delicatessen,30.61,bakery/shop,12.21,ice_cream_parlor,48.96
+35,냉면_개롱골목냉면_393.jpg,delicatessen,53.44,restaurant,19.56,fastfood_restaurant,4.55,delicatessen,53.44
+36,냉면_골목냉면 혜화점_405.jpg,delicatessen,38.45,fishpond,17.64,bakery/shop,10.02,delicatessen,38.45
+37,냉면_골목냉면 혜화점_406.jpg,ice_cream_parlor,65.43,bakery/shop,18.53,delicatessen,7.25,ice_cream_parlor,65.43
+38,냉면_골목냉면 혜화점_407.jpg,delicatessen,73.31,bakery/shop,10.98,ice_cream_parlor,6.31,delicatessen,73.31
+39,냉면_골목냉면_380.jpg,kindergarden_classroom,27.28,childs_room,10.95,drugstore,10.13,kindergarden_classroom,27.28
+40,냉면_깡통골목 원조비빔당면_1821.jpg,cafeteria,28.64,food_court,12.86,flea_market/indoor,12.81,cafeteria,28.64
+41,냉면_깡통골목 원조비빔당면_1822.jpg,flea_market/indoor,29.86,market/indoor,25.88,hardware_store,9.22,flea_market/indoor,29.86
+42,냉면_수택골목냉면_906.jpg,bakery/shop,59.09,delicatessen,10.96,ice_cream_parlor,10.6,bakery/shop,59.09
+43,냉면_수택골목냉면_907.jpg,fastfood_restaurant,61.18,food_court,16.2,shopfront,9.63,fastfood_restaurant,61.18
+44,도보여행_서서울호수공원 산책길_142.jpg,tree_farm,41.75,botanical_garden,16.01,forest/broadleaf,9.94,tree_farm,41.75
+45,도보여행_서서울호수공원 산책길_143.jpg,canal/natural,23.73,lake/natural,17.81,marsh,16.91,canal/natural,23.73
+46,도시근린공원_광교호수공원_626.jpg,amphitheater,53.85,dam,23.15,bridge,4.69,amphitheater,53.85
+47,도시근린공원_광교호수공원_627.jpg,downtown,18.31,skyscraper,18.12,lake/natural,11.96,downtown,18.31
+48,도시근린공원_광교호수공원_628.jpg,canal/natural,38.83,river,16.15,moat/water,13.97,canal/natural,38.83
+49,도시근린공원_금광호수공원_652.jpg,balcony/interior,14.24,lake/natural,11.55,islet,10.28,balcony/interior,14.24
+50,도시근린공원_기흥호수공원_647.jpg,parking_lot,86.36,highway,3.42,crosswalk,3.31,parking_lot,86.36
+51,도시근린공원_기흥호수공원_648.jpg,gazebo/exterior,39.55,pavilion,6.74,farm,5.16,gazebo/exterior,39.55
+52,도시근린공원_기흥호수공원_649.jpg,dam,76.94,boathouse,5.05,canal/natural,3.97,dam,76.94
+53,도시근린공원_반월호수공원_656.jpg,bus_station/indoor,14.73,hangar/outdoor,13.2,airport_terminal,5.75,bus_station/indoor,14.73
+54,도시근린공원_반월호수공원_657.jpg,ski_resort,30.52,amusement_park,8.94,ticket_booth,7.99,ski_resort,30.52
+55,도시근린공원_반월호수공원_658.jpg,formal_garden,8.22,topiary_garden,6.67,balcony/interior,6.66,formal_garden,8.22
+56,도시근린공원_상동호수공원_632.jpg,art_studio,21.98,amusement_arcade,19.93,kindergarden_classroom,10.59,art_studio,21.98
+57,도시근린공원_상동호수공원_633.jpg,topiary_garden,35.46,arch,33.62,botanical_garden,11.8,topiary_garden,35.46
+58,도시근린공원_상동호수공원_634.jpg,windmill,94.75,wind_farm,4.36,farm,0.14,windmill,94.75
+59,도시근린공원_서서울호수공원_127.jpg,pond,22.96,japanese_garden,16.31,tree_farm,7.47,pond,22.96
+60,도시근린공원_안산호수공원_638.jpg,park,69.94,campus,8.04,plaza,6.48,park,69.94
+61,도시근린공원_안산호수공원_639.jpg,kindergarden_classroom,23.96,dressing_room,19.16,art_school,14.25,kindergarden_classroom,23.96
+62,도시근린공원_안산호수공원_640.jpg,plaza,21.33,campus,20.36,stage/outdoor,13.27,plaza,21.33
+63,도시근린공원_오남호수공원_653.jpg,fountain,93.65,hot_spring,2.93,water_park,1.54,fountain,93.65
+64,도시근린공원_오남호수공원_655.jpg,mountain_path,82.37,mountain,6.77,valley,3.53,mountain_path,82.37
+65,도시근린공원_옥정호수공원_660.jpg,pavilion,64.38,stage/outdoor,10.21,market/indoor,3.09,pavilion,64.38
+66,도시근린공원_옥정호수공원_661.jpg,kindergarden_classroom,14.96,drugstore,11.67,toyshop,10.54,kindergarden_classroom,14.96
+67,도시근린공원_운정호수공원_635.jpg,marsh,10.84,canal/urban,9.98,lake/natural,8.73,marsh,10.84
+68,도시근린공원_운정호수공원_637.jpg,bridge,22.38,canal/natural,17.07,dam,12.75,bridge,22.38
+69,도시근린공원_장자호수공원_641.jpg,drugstore,18.08,clean_room,15.33,booth/indoor,12.01,drugstore,18.08
+70,도시근린공원_장자호수공원_642.jpg,crosswalk,59.43,downtown,25.96,parking_garage/outdoor,6.01,crosswalk,59.43
+71,도시근린공원_장자호수공원_643.jpg,downtown,53.86,parking_lot,21.61,skyscraper,6.24,downtown,53.86
+72,도시근린공원_청라호수공원_1107.jpg,amusement_park,27.23,windmill,12.71,formal_garden,10.53,amusement_park,27.23
+73,도시근린공원_청라호수공원_1108.jpg,water_park,58.77,canal/urban,23.49,amusement_park,6.85,water_park,58.77
+74,도시근린공원_청라호수공원_1109.jpg,pavilion,9.43,promenade,7.24,parking_lot,6.85,pavilion,9.43
+75,도시근린공원_해오름호수공원_1110.jpg,swamp,15.9,pond,15.86,marsh,14.44,swamp,15.9
+76,도시근린공원_해오름호수공원_1111.jpg,castle,20.8,palace,13.65,marsh,9.44,castle,20.8
+77,도시근린공원_해오름호수공원_1112.jpg,canal/urban,34.51,moat/water,34.19,canal/natural,18.65,canal/urban,34.51
+78,등산정보_관악산 호수공원분기점_144.jpg,playroom,48.72,childs_room,34.33,amusement_arcade,7.02,playroom,48.72
+79,등산정보_관악산 호수공원분기점_145.jpg,amusement_arcade,45.61,arena/performance,5.05,recreation_room,2.87,amusement_arcade,45.61
+80,등산정보_관악산 호수공원분기점_146.jpg,fishpond,15.56,boat_deck,8.98,landing_deck,6.58,fishpond,15.56
+81,디저트카페_동양염전베이커리카페_1080.jpg,dam,34.44,loading_dock,19.45,industrial_area,12.64,dam,34.44
+82,디저트카페_동양염전베이커리카페_1081.jpg,booth/indoor,73.13,science_museum,13.39,museum/indoor,2.82,booth/indoor,73.13
+83,디저트카페_동양염전베이커리카페_1082.jpg,patio,44.11,roof_garden,15.45,greenhouse/indoor,12.74,patio,44.11
+84,디저트카페_마롱브런치&베이커리카페_495.jpg,loading_dock,7.3,harbor,6.89,pier,5.69,loading_dock,7.3
+85,디저트카페_마롱브런치&베이커리카페_496.jpg,hospital,19.78,library/outdoor,17.26,parking_garage/outdoor,12.79,hospital,19.78
+86,디저트카페_바다와풍경_490.jpg,hospital,33.65,park,10.54,golf_course,7.71,hospital,33.65
+87,디저트카페_바다와풍경_491.jpg,ice_shelf,32.52,beach,15.08,ocean,12.99,ice_shelf,32.52
+88,디저트카페_보스커피&브런치_12.jpg,delicatessen,72.23,market/outdoor,5.85,restaurant,4.04,delicatessen,72.23
+89,디저트카페_브런치카페 이엘_1507.jpg,bar,24.14,sushi_bar,19.86,restaurant,7.0,bar,24.14
+90,디저트카페_브룩스_1543.jpg,bathroom,53.8,shower,24.62,sauna,5.8,bathroom,53.8
+91,디저트카페_빠르끄 풍동본점_575.jpg,delicatessen,94.53,restaurant,1.05,fastfood_restaurant,0.96,delicatessen,94.53
+92,디저트카페_빠르끄 풍동본점_576.jpg,bakery/shop,51.05,delicatessen,18.59,ice_cream_parlor,11.86,bakery/shop,51.05
+93,디저트카페_빠르끄 풍동본점_577.jpg,delicatessen,53.54,bakery/shop,26.8,fastfood_restaurant,5.82,delicatessen,53.54
+94,디저트카페_스타골목커피_1397.jpg,discotheque,19.51,arena/performance,15.03,stage/indoor,7.55,discotheque,19.51
+95,디저트카페_스타골목커피_1398.jpg,art_studio,22.16,art_gallery,14.17,amusement_park,7.68,art_studio,22.16
+96,디저트카페_스타골목커피_1399.jpg,valley,30.63,mountain_path,10.18,cliff,8.76,valley,30.63
+97,디저트카페_어로프슬라이스피스_551.jpg,butchers_shop,58.23,supermarket,17.83,market/outdoor,7.68,butchers_shop,58.23
+98,디저트카페_어로프슬라이스피스_552.jpg,art_studio,7.14,sushi_bar,6.87,bowling_alley,5.05,art_studio,7.14
+99,디저트카페_어로프슬라이스피스_553.jpg,recreation_room,12.35,coffee_shop,12.24,office,6.18,recreation_room,12.35
+100,디저트카페_에테르_1476.jpg,balcony/interior,54.22,beach_house,17.52,bow_window/indoor,16.13,balcony/interior,54.22
+101,디저트카페_우즈베이커리_1559.jpg,airport_terminal,22.93,server_room,17.42,baseball_field,6.71,airport_terminal,22.93
+102,디저트카페_우즈베이커리카페 수성호수점_1930.jpg,bakery/shop,91.5,delicatessen,4.26,butchers_shop,2.36,bakery/shop,91.5
+103,디저트카페_우즈베이커리카페 수성호수점_1931.jpg,atrium/public,27.13,dining_hall,9.45,office_cubicles,8.02,atrium/public,27.13
+104,디저트카페_이진상회_545.jpg,bazaar/outdoor,15.89,plaza,8.26,motel,7.82,bazaar/outdoor,15.89
+105,디저트카페_이진상회_546.jpg,greenhouse/outdoor,94.3,doorway/outdoor,0.68,synagogue/outdoor,0.68,greenhouse/outdoor,94.3
+106,디저트카페_이진상회_547.jpg,pavilion,56.16,hunting_lodge/outdoor,20.85,kennel/outdoor,4.41,pavilion,56.16
+107,디저트카페_인스퍼레이션디 동촌유원지점_1950.jpg,industrial_area,31.78,parking_garage/outdoor,25.59,loading_dock,7.29,industrial_area,31.78
+108,디저트카페_인스퍼레이션디 동촌유원지점_1951.jpg,restaurant_patio,40.73,patio,8.38,restaurant,5.99,restaurant_patio,40.73
+109,디저트카페_초이스엠_1944.jpg,library/outdoor,11.88,hospital,11.74,office_building,8.32,library/outdoor,11.88
+110,디저트카페_초이스엠_1945.jpg,bakery/shop,90.49,delicatessen,3.61,supermarket,1.63,bakery/shop,90.49
+111,디저트카페_초이스엠_1946.jpg,industrial_area,46.71,office_building,9.95,library/outdoor,6.94,industrial_area,46.71
+112,디저트카페_카페 레드브리끄_478.jpg,shopfront,18.69,hotel/outdoor,14.35,diner/outdoor,9.7,shopfront,18.69
+113,디저트카페_토지베이커리브런치카페_499.jpg,candy_store,71.36,ice_cream_parlor,14.56,playroom,2.41,candy_store,71.36
+114,디저트카페_토지베이커리브런치카페_500.jpg,server_room,92.27,airport_terminal,1.04,cockpit,1.02,server_room,92.27
+115,디저트카페_포레스트아웃팅스 송도점_1062.jpg,shopping_mall/indoor,86.42,atrium/public,9.11,arcade,2.81,shopping_mall/indoor,86.42
+116,디저트카페_포레스트아웃팅스 송도점_1063.jpg,industrial_area,18.95,motel,11.72,beach_house,6.74,industrial_area,18.95
+117,디저트카페_프릳츠 도화점_52.jpg,courtyard,11.68,parking_garage/outdoor,10.63,roof_garden,9.25,courtyard,11.68
+118,디저트카페_프릳츠 도화점_53.jpg,locker_room,12.63,museum/indoor,11.35,coffee_shop,6.77,locker_room,12.63
+119,디저트카페_프릳츠 도화점_54.jpg,coffee_shop,91.3,ice_cream_parlor,4.23,restaurant,1.0,coffee_shop,91.3
+120,떡볶이_골목떡볶이_367.jpg,hardware_store,16.59,toyshop,9.06,assembly_line,5.15,hardware_store,16.59
+121,"릉,묘,총_김포장릉_790.jpg",forest_path,57.5,rainforest,8.16,mountain_path,7.57,forest_path,57.5
+122,"릉,묘,총_동구릉_770.jpg",cemetery,63.3,mausoleum,18.79,barndoor,3.44,cemetery,63.3
+123,"릉,묘,총_동구릉_771.jpg",archaelogical_excavation,24.2,village,14.35,mausoleum,6.11,archaelogical_excavation,24.2
+124,"릉,묘,총_동구릉_772.jpg",temple/asia,15.42,pagoda,11.81,mausoleum,11.81,temple/asia,15.42
+125,"릉,묘,총_서오릉_773.jpg",driveway,13.65,mausoleum,10.04,amphitheater,7.15,driveway,13.65
+126,"릉,묘,총_서오릉_774.jpg",ticket_booth,50.68,elevator/door,22.84,bank_vault,7.35,ticket_booth,50.68
+127,"릉,묘,총_서오릉_775.jpg",forest_path,20.31,forest_road,19.28,bamboo_forest,14.24,forest_path,20.31
+128,"릉,묘,총_서울선릉과정릉_259.jpg",childs_room,41.19,nursery,10.13,clean_room,9.8,childs_room,41.19
+129,"릉,묘,총_서울선릉과정릉_260.jpg",cemetery,55.31,archive,12.5,mausoleum,6.7,cemetery,55.31
+130,"릉,묘,총_서울선릉과정릉_261.jpg",topiary_garden,8.76,stadium/soccer,6.3,ski_slope,5.16,topiary_garden,8.76
+131,"릉,묘,총_연산동고분군_1710.jpg",village,64.9,downtown,5.86,skyscraper,4.99,village,64.9
+132,"릉,묘,총_연산동고분군_1711.jpg",museum/indoor,44.89,archaelogical_excavation,19.03,science_museum,7.63,museum/indoor,44.89
+133,"릉,묘,총_연산동고분군_1712.jpg",vineyard,22.6,village,19.33,tree_farm,13.92,vineyard,22.6
+134,"릉,묘,총_영녕릉 세종대왕유적지구 세종대왕릉_786.jpg",archive,27.88,server_room,27.23,locker_room,13.03,archive,27.88
+135,"릉,묘,총_화성융릉과건릉_776.jpg",topiary_garden,93.61,formal_garden,3.84,vineyard,0.94,topiary_garden,93.61
+136,"릉,묘,총_화성융릉과건릉_777.jpg",science_museum,69.61,natural_history_museum,26.97,museum/indoor,3.23,science_museum,69.61
+137,"릉,묘,총_화성융릉과건릉_778.jpg",science_museum,22.78,utility_room,16.9,elevator/door,11.51,science_museum,22.78
+138,문_광화문_247.jpg,downtown,24.6,street,12.94,bus_station/indoor,8.24,downtown,24.6
+139,문_광화문_248.jpg,downtown,45.73,plaza,24.72,street,5.75,downtown,45.73
+140,문_광화문_249.jpg,downtown,42.08,skyscraper,40.4,office_building,6.6,downtown,42.08
+141,문_금정산성 남문_1696.jpg,mausoleum,63.66,temple/asia,20.43,pagoda,5.09,mausoleum,63.66
+142,문_독립문_270.jpg,aqueduct,26.65,kasbah,21.75,arch,9.97,aqueduct,26.65
+143,문_독립문_271.jpg,legislative_chamber,44.23,lecture_room,14.87,conference_center,11.16,legislative_chamber,44.23
+144,문_독립문_272.jpg,candy_store,29.74,ticket_booth,10.3,drugstore,6.03,candy_store,29.74
+145,문_수원화성 장안문_782.jpg,mountain_path,15.03,rope_bridge,10.14,mountain,7.34,mountain_path,15.03
+146,문_수원화성 장안문_783.jpg,pagoda,45.54,mausoleum,14.05,temple/asia,12.61,pagoda,45.54
+147,문_수원화성 장안문_784.jpg,highway,42.28,ski_slope,13.78,desert/sand,7.62,highway,42.28
+148,문_수원화성 팔달문_794.jpg,slum,46.78,pagoda,13.31,temple/asia,8.82,slum,46.78
+149,문_수원화성 팔달문_795.jpg,temple/asia,62.08,pagoda,22.27,palace,8.85,temple/asia,62.08
+150,문_수원화성 팔달문_796.jpg,highway,13.12,temple/asia,9.86,carrousel,7.47,highway,13.12
+151,문_숭례문_253.jpg,temple/asia,33.98,pagoda,17.52,throne_room,15.64,temple/asia,33.98
+152,문_숭례문_254.jpg,downtown,29.67,plaza,10.59,pagoda,7.97,downtown,29.67
+153,문_숭례문_255.jpg,plaza,19.73,downtown,13.86,campus,11.44,plaza,19.73
+154,문_홍예문_1262.jpg,catacomb,64.73,arch,6.6,grotto,5.45,catacomb,64.73
+155,문_홍예문_1264.jpg,arch,31.3,aqueduct,21.48,viaduct,17.43,arch,31.3
+156,문_흥인지문_257.jpg,plaza,53.92,downtown,25.59,crosswalk,4.24,plaza,53.92
+157,문_흥인지문_258.jpg,fire_escape,20.97,pagoda,13.46,phone_booth,7.83,fire_escape,20.97
+158,문화유적_고려궁지_1230.jpg,temple/asia,44.86,pagoda,25.45,mausoleum,6.35,temple/asia,44.86
+159,문화유적_고려궁지_1231.jpg,porch,15.34,ticket_booth,8.47,stable,8.24,porch,15.34
+160,문화유적_고려궁지_1232.jpg,temple/asia,39.97,ticket_booth,17.84,diner/outdoor,8.8,temple/asia,39.97
+161,문화유적_서울암사동유적_273.jpg,bakery/shop,15.72,storage_room,15.16,general_store/indoor,11.08,bakery/shop,15.72
+162,문화유적_서울암사동유적_274.jpg,conference_center,56.33,television_studio,14.16,auditorium,8.45,conference_center,56.33
+163,문화유적_서울암사동유적_275.jpg,forest_path,31.24,park,10.19,botanical_garden,6.76,forest_path,31.24
+164,문화유적_석파정_263.jpg,library/outdoor,25.35,zen_garden,12.54,pavilion,6.24,library/outdoor,25.35
+165,문화유적_연미정_1226.jpg,farm,17.59,vineyard,13.86,pasture,8.9,farm,17.59
+166,문화유적_외양포진지_1701.jpg,kennel/outdoor,13.92,stable,10.58,natural_history_museum,9.56,kennel/outdoor,13.92
+167,문화유적_외양포진지_1702.jpg,ticket_booth,95.52,gas_station,4.11,general_store/outdoor,0.08,ticket_booth,95.52
+168,문화유적_외양포진지_1703.jpg,natural_history_museum,62.64,museum/indoor,18.42,science_museum,11.49,natural_history_museum,62.64
+169,문화유적_원인재_1247.jpg,temple/asia,60.57,pagoda,12.34,palace,9.56,temple/asia,60.57
+170,문화유적_원인재_1248.jpg,delicatessen,81.11,restaurant,7.03,market/outdoor,3.03,delicatessen,81.11
+171,문화유적_원인재_1249.jpg,temple/asia,54.97,pagoda,13.86,pavilion,5.52,temple/asia,54.97
+172,문화유적_장수동 은행나무_1236.jpg,park,84.2,tree_farm,2.77,promenade,1.69,park,84.2
+173,문화유적_장수동 은행나무_1238.jpg,park,18.37,picnic_area,10.35,pavilion,7.68,park,18.37
+174,문화유적_정약용유적지_791.jpg,hospital,43.65,highway,8.3,industrial_area,5.49,hospital,43.65
+175,문화유적_정약용유적지_792.jpg,classroom,31.18,lecture_room,21.37,art_school,10.7,classroom,31.18
+176,문화유적_정약용유적지_793.jpg,golf_course,29.32,campus,11.93,athletic_field/outdoor,9.15,golf_course,29.32
+177,문화유적_충렬사_1680.jpg,temple/asia,49.63,mausoleum,22.2,pagoda,14.2,temple/asia,49.63
+178,문화유적_충렬사_1681.jpg,doorway/outdoor,69.02,porch,4.44,balcony/exterior,4.25,doorway/outdoor,69.02
+179,문화유적_충렬사_1682.jpg,temple/asia,56.14,pagoda,15.85,japanese_garden,4.81,temple/asia,56.14
+180,문화유적_해월정_1700.jpg,shoe_shop,94.85,repair_shop,0.93,natural_history_museum,0.85,shoe_shop,94.85
+181,미술관_가나아트파크_696.jpg,science_museum,11.39,museum/indoor,10.94,engine_room,10.11,science_museum,11.39
+182,미술관_가나아트파크_697.jpg,art_studio,34.69,art_gallery,22.87,art_school,10.61,art_studio,34.69
+183,미술관_가나아트파크_698.jpg,ticket_booth,37.42,general_store/outdoor,21.65,diner/outdoor,3.93,ticket_booth,37.42
+184,미술관_간송미술관_190.jpg,archaelogical_excavation,67.96,cemetery,20.07,zen_garden,4.11,archaelogical_excavation,67.96
+185,미술관_간송미술관_191.jpg,japanese_garden,57.93,pagoda,27.45,zen_garden,4.3,japanese_garden,57.93
+186,미술관_간송미술관_192.jpg,cemetery,32.45,japanese_garden,22.68,park,18.88,cemetery,32.45
+187,미술관_경기도미술관_683.jpg,jewelry_shop,31.26,beauty_salon,21.4,clean_room,10.57,jewelry_shop,31.26
+188,미술관_경기도미술관_684.jpg,drugstore,24.08,pharmacy,13.95,hardware_store,2.7,drugstore,24.08
+189,미술관_경기도미술관_685.jpg,arena/performance,34.0,aquarium,22.13,natural_history_museum,19.54,arena/performance,34.0
+190,미술관_경원미술관_1158.jpg,pizzeria,80.9,delicatessen,15.71,restaurant,1.06,pizzeria,80.9
+191,미술관_경원미술관_1159.jpg,general_store/outdoor,47.35,diner/outdoor,18.31,ticket_booth,12.31,general_store/outdoor,47.35
+192,미술관_경원미술관_1160.jpg,airport_terminal,40.67,department_store,9.23,elevator_lobby,5.94,airport_terminal,40.67
+193,미술관_고은사진미술관_1608.jpg,booth/indoor,25.16,museum/indoor,15.31,television_studio,15.05,booth/indoor,25.16
+194,미술관_고은사진미술관_1609.jpg,clothing_store,18.14,booth/indoor,6.14,construction_site,5.73,clothing_store,18.14
+195,미술관_고은사진미술관_1610.jpg,home_theater,29.31,lobby,6.69,art_gallery,6.0,home_theater,29.31
+196,미술관_구하우스미술관_689.jpg,veterinarians_office,51.86,pet_shop,11.66,natural_history_museum,9.13,veterinarians_office,51.86
+197,미술관_국립현대미술관 과천_673.jpg,museum/outdoor,42.29,mausoleum,24.85,library/outdoor,12.72,museum/outdoor,42.29
+198,미술관_국립현대미술관 서울_156.jpg,campus,23.13,industrial_area,22.48,parking_garage/outdoor,18.84,campus,23.13
+199,미술관_국제갤러리 부산지점_1635.jpg,ice_floe,11.26,shower,10.65,beauty_salon,6.76,ice_floe,11.26
+200,미술관_국제갤러리 부산지점_1636.jpg,artists_loft,46.49,art_gallery,38.9,art_studio,7.7,artists_loft,46.49
+201,미술관_국제갤러리 부산지점_1637.jpg,office_building,41.03,downtown,15.96,skyscraper,13.75,office_building,41.03
+202,미술관_금련산갤러리_1638.jpg,childs_room,22.79,nursery,19.29,ice_shelf,18.28,childs_room,22.79
+203,미술관_금련산갤러리_1639.jpg,museum/indoor,19.13,martial_arts_gym,5.92,ice_shelf,4.53,museum/indoor,19.13
+204,미술관_금련산갤러리_1640.jpg,museum/indoor,19.2,clothing_store,8.08,ice_shelf,6.96,museum/indoor,19.2
+205,미술관_금정문화회관 금샘미술관_1620.jpg,clothing_store,22.14,gift_shop,13.79,jewelry_shop,13.66,clothing_store,22.14
+206,미술관_금정문화회관 금샘미술관_1621.jpg,elevator/door,54.39,museum/indoor,15.42,elevator_lobby,8.32,elevator/door,54.39
+207,미술관_금정문화회관 금샘미술관_1622.jpg,clothing_store,6.49,childs_room,6.05,elevator/door,5.94,clothing_store,6.49
+208,미술관_김홍도미술관_705.jpg,office_building,29.24,hospital,14.28,skyscraper,12.99,office_building,29.24
+209,미술관_김홍도미술관_706.jpg,gas_station,36.42,motel,18.57,bus_station/indoor,10.96,gas_station,36.42
+210,미술관_대구간송미술관_1995.jpg,pavilion,25.43,amphitheater,9.07,kennel/outdoor,4.48,pavilion,25.43
+211,미술관_대구간송미술관_1996.jpg,drugstore,32.88,pharmacy,12.32,office_cubicles,8.23,drugstore,32.88
+212,미술관_대구간송미술관_1997.jpg,construction_site,23.09,industrial_area,15.1,campus,11.33,construction_site,23.09
+213,미술관_대구미술관_1992.jpg,atrium/public,13.74,lobby,11.02,museum/indoor,10.49,atrium/public,13.74
+214,미술관_대구미술관_1993.jpg,art_studio,19.88,archive,13.71,art_school,13.51,art_studio,19.88
+215,미술관_대구미술관_1994.jpg,artists_loft,54.15,art_gallery,35.49,art_studio,7.41,artists_loft,54.15
+216,미술관_대림미술관_188.jpg,art_gallery,52.42,artists_loft,37.73,art_studio,5.14,art_gallery,52.42
+217,미술관_대림미술관_189.jpg,playroom,20.42,childs_room,19.8,amusement_arcade,8.3,playroom,20.42
+218,미술관_더리미미술관_1144.jpg,home_theater,53.57,movie_theater/indoor,26.03,restaurant,1.56,home_theater,53.57
+219,미술관_더리미미술관_1145.jpg,art_gallery,61.59,artists_loft,29.98,art_studio,4.2,art_gallery,61.59
+220,미술관_디뮤지엄_181.jpg,discotheque,43.35,igloo,17.91,catacomb,11.7,discotheque,43.35
+221,미술관_랄프깁슨 사진미술관_1629.jpg,phone_booth,95.56,jail_cell,3.07,elevator/door,0.28,phone_booth,95.56
+222,미술관_리움미술관_150.jpg,driveway,23.76,patio,14.09,basement,4.82,driveway,23.76
+223,미술관_리움미술관_152.jpg,catacomb,29.41,jail_cell,16.64,elevator_shaft,14.68,catacomb,29.41
+224,미술관_뮤지엄원_1615.jpg,science_museum,55.49,amusement_arcade,10.62,television_studio,4.07,science_museum,55.49
+225,미술관_뮤지엄원_1616.jpg,drugstore,15.92,clean_room,9.8,conference_center,9.47,drugstore,15.92
+226,미술관_미메시스아트뮤지엄_679.jpg,art_gallery,34.87,artists_loft,15.88,museum/indoor,10.32,art_gallery,34.87
+227,미술관_부산시립미술관 (휴관중)_1605.jpg,jewelry_shop,58.29,art_gallery,15.27,martial_arts_gym,4.96,jewelry_shop,58.29
+228,미술관_부산시립미술관 이우환공간_1623.jpg,office_building,31.84,campus,19.58,library/outdoor,13.31,office_building,31.84
+229,미술관_부산시립미술관 이우환공간_1624.jpg,lawn,37.28,zen_garden,27.58,japanese_garden,11.72,lawn,37.28
+230,미술관_부산시립미술관 이우환공간_1625.jpg,ice_floe,42.9,ice_shelf,16.81,iceberg,8.04,ice_floe,42.9
+231,미술관_부산현대미술관_1611.jpg,bookstore,14.73,drugstore,10.15,pharmacy,9.72,bookstore,14.73
+232,미술관_부산현대미술관_1612.jpg,library/outdoor,36.13,building_facade,7.65,topiary_garden,6.67,library/outdoor,36.13
+233,미술관_부평아트센터 꽃누리갤러리_1153.jpg,drugstore,60.95,pharmacy,10.29,ice_shelf,6.47,drugstore,60.95
+234,미술관_서면미술관_1617.jpg,discotheque,79.16,stage/indoor,15.09,television_studio,2.84,discotheque,79.16
+235,미술관_서면미술관_1618.jpg,beauty_salon,21.64,conference_center,19.37,nursery,16.36,beauty_salon,21.64
+236,미술관_서울시립 북서울미술관_179.jpg,museum/indoor,24.48,jewelry_shop,8.86,racecourse,8.3,museum/indoor,24.48
+237,미술관_서울시립 북서울미술관_180.jpg,art_studio,53.54,art_gallery,29.68,art_school,11.62,art_studio,53.54
+238,미술관_서울시립 사진미술관_193.jpg,library/outdoor,30.93,museum/outdoor,20.32,parking_garage/outdoor,11.62,library/outdoor,30.93
+239,미술관_서울시립 사진미술관_194.jpg,desert/vegetation,77.66,conference_center,8.09,wheat_field,2.09,desert/vegetation,77.66
+240,미술관_서울시립 사진미술관_195.jpg,art_gallery,15.06,elevator_shaft,14.18,artists_loft,6.47,art_gallery,15.06
+241,미술관_서울시립미술관 서소문본관_159.jpg,hospital,35.6,campus,17.57,office_building,12.18,hospital,35.6
+242,미술관_서울시립미술관 서소문본관_160.jpg,art_gallery,40.57,artists_loft,38.5,art_studio,12.88,art_gallery,40.57
+243,미술관_서울시립미술관 서소문본관_161.jpg,art_gallery,40.57,artists_loft,38.5,art_studio,12.88,art_gallery,40.57
+244,미술관_서울시립미술관 서소문본관_162.jpg,conference_center,40.14,veterinarians_office,26.56,martial_arts_gym,7.96,conference_center,40.14
+245,미술관_석모도갤러리_1168.jpg,delicatessen,92.02,pizzeria,3.85,sushi_bar,0.76,delicatessen,92.02
+246,미술관_석파정 서울미술관_169.jpg,recreation_room,26.74,television_studio,24.6,baseball_field,5.34,recreation_room,26.74
+247,미술관_석파정 서울미술관_170.jpg,topiary_garden,56.67,museum/indoor,15.2,art_gallery,4.09,topiary_garden,56.67
+248,미술관_석파정 서울미술관_171.jpg,bank_vault,29.89,museum/indoor,24.46,art_gallery,12.51,bank_vault,29.89
+249,미술관_성남큐브미술관_701.jpg,ice_shelf,52.6,sky,19.08,drugstore,4.5,ice_shelf,52.6
+250,미술관_송암미술관_1135.jpg,museum/indoor,71.02,science_museum,7.86,army_base,6.76,museum/indoor,71.02
+251,미술관_송암미술관_1136.jpg,campus,55.27,museum/outdoor,5.17,plaza,4.8,campus,55.27
+252,미술관_수원시립미술관_674.jpg,boardwalk,35.97,motel,13.53,pier,10.29,boardwalk,35.97
+253,미술관_수원시립미술관_675.jpg,kindergarden_classroom,22.5,playroom,7.08,amusement_park,5.3,kindergarden_classroom,22.5
+254,미술관_수원시립미술관_676.jpg,museum/indoor,46.82,art_gallery,33.86,science_museum,2.77,museum/indoor,46.82
+255,미술관_스페인마을 갤러리_1151.jpg,lock_chamber,42.56,beach_house,9.65,roof_garden,6.59,lock_chamber,42.56
+256,미술관_아모레퍼시픽미술관_175.jpg,archive,33.4,server_room,30.87,storage_room,14.07,archive,33.4
+257,미술관_아트KMJ갤러리_1170.jpg,ice_shelf,83.57,ice_floe,4.33,iceberg,3.42,ice_shelf,83.57
+258,미술관_양주시립장욱진미술관_680.jpg,fire_escape,55.77,atrium/public,7.98,rope_bridge,5.82,fire_escape,55.77
+259,미술관_양주시립장욱진미술관_681.jpg,bridge,43.62,rope_bridge,39.47,boardwalk,7.38,bridge,43.62
+260,미술관_양주시립장욱진미술관_682.jpg,hangar/outdoor,43.3,library/outdoor,15.91,stage/outdoor,7.65,hangar/outdoor,43.3
+261,미술관_양평군립미술관_693.jpg,museum/indoor,12.6,bar,9.1,clothing_store,4.92,museum/indoor,12.6
+262,미술관_양평군립미술관_694.jpg,art_gallery,70.38,art_studio,15.91,museum/indoor,5.23,art_gallery,70.38
+263,미술관_양평군립미술관_695.jpg,art_gallery,82.11,artists_loft,8.18,art_studio,6.34,art_gallery,82.11
+264,미술관_예술의전당 한가람미술관_164.jpg,legislative_chamber,15.8,booth/indoor,12.34,conference_center,11.82,legislative_chamber,15.8
+265,미술관_예술의전당 한가람미술관_165.jpg,server_room,20.82,conference_center,15.25,booth/indoor,6.27,server_room,20.82
+266,미술관_오산시립미술관_708.jpg,hangar/outdoor,21.75,shopfront,16.14,hotel/outdoor,12.09,hangar/outdoor,21.75
+267,미술관_오산시립미술관_710.jpg,clean_room,16.44,hangar/outdoor,8.16,garage/outdoor,5.47,clean_room,16.44
+268,미술관_우현문갤러리_1161.jpg,basement,40.98,artists_loft,20.87,television_studio,9.54,basement,40.98
+269,미술관_우현문갤러리_1162.jpg,art_gallery,60.53,art_studio,11.44,museum/indoor,9.59,art_gallery,60.53
+270,미술관_우현문갤러리_1163.jpg,art_gallery,52.55,artists_loft,27.21,art_studio,16.4,art_gallery,52.55
+271,미술관_유리섬_686.jpg,playroom,26.63,art_gallery,25.35,art_studio,17.74,playroom,26.63
+272,미술관_유리섬_687.jpg,elevator/door,32.31,ticket_booth,28.76,booth/indoor,12.45,elevator/door,32.31
+273,미술관_유리섬_688.jpg,igloo,58.08,ski_slope,23.73,alcove,3.74,igloo,58.08
+274,미술관_전원미술관_1173.jpg,rice_paddy,18.03,beach_house,13.98,cottage,8.77,rice_paddy,18.03
+275,미술관_전원미술관_1174.jpg,chalet,20.87,hunting_lodge/outdoor,18.8,house,13.26,chalet,20.87
+276,미술관_전원미술관_1175.jpg,general_store/outdoor,67.8,beach_house,4.92,slum,4.87,general_store/outdoor,67.8
+277,미술관_정서진아트큐브_1155.jpg,fabric_store,20.23,art_studio,19.23,art_gallery,13.93,fabric_store,20.23
+278,미술관_정서진아트큐브_1156.jpg,office_cubicles,7.85,ice_shelf,7.57,chalet,4.26,office_cubicles,7.85
+279,미술관_참살이미술관_1146.jpg,archive,22.58,museum/indoor,11.72,nursing_home,6.17,archive,22.58
+280,미술관_참살이미술관_1147.jpg,artists_loft,36.06,art_gallery,27.15,lobby,6.3,artists_loft,36.06
+281,미술관_참살이미술관_1148.jpg,locker_room,39.15,drugstore,14.52,pharmacy,5.98,locker_room,39.15
+282,미술관_채플갤러리_1137.jpg,conference_room,45.72,office,12.11,waiting_room,7.46,conference_room,45.72
+283,미술관_채플갤러리_1138.jpg,art_gallery,20.58,artists_loft,15.18,museum/indoor,15.1,art_gallery,20.58
+284,미술관_채플갤러리_1139.jpg,art_gallery,59.27,artists_loft,17.9,art_studio,11.48,art_gallery,59.27
+285,미술관_포레리움_704.jpg,campus,22.68,industrial_area,15.68,hospital,11.01,campus,22.68
+286,미술관_한두뼘12갤러리_1176.jpg,bakery/shop,55.85,ice_cream_parlor,16.61,fastfood_restaurant,8.27,bakery/shop,55.85
+287,미술관_한새갤러리_1646.jpg,alley,14.92,house,14.53,fire_escape,8.19,alley,14.92
+288,미술관_호암미술관_668.jpg,gazebo/exterior,34.89,pavilion,22.97,temple/asia,16.15,gazebo/exterior,34.89
+289,미술관_호암미술관_669.jpg,gazebo/exterior,30.74,pavilion,23.97,temple/asia,10.21,gazebo/exterior,30.74
+290,미술관_호암미술관_670.jpg,rainforest,48.3,botanical_garden,33.03,vegetable_garden,8.73,rainforest,48.3
+291,박물관_강화역사박물관_1190.jpg,science_museum,35.41,museum/indoor,22.57,natural_history_museum,16.84,science_museum,35.41
+292,박물관_강화역사박물관_1191.jpg,hangar/outdoor,85.61,library/outdoor,3.96,museum/outdoor,3.22,hangar/outdoor,85.61
+293,박물관_강화자연사박물관_1199.jpg,storage_room,11.88,pharmacy,8.48,drugstore,7.55,storage_room,11.88
+294,박물관_강화자연사박물관_1200.jpg,art_gallery,27.45,museum/indoor,13.03,science_museum,7.68,art_gallery,27.45
+295,박물관_강화전쟁박물관_1210.jpg,jewelry_shop,42.96,natural_history_museum,23.37,science_museum,12.0,jewelry_shop,42.96
+296,박물관_강화전쟁박물관_1212.jpg,mansion,15.48,house,14.84,beach_house,11.83,mansion,15.48
+297,박물관_검단선사박물관_1207.jpg,jewelry_shop,51.84,natural_history_museum,18.71,elevator_lobby,7.76,jewelry_shop,51.84
+298,박물관_검단선사박물관_1208.jpg,drugstore,43.12,childs_room,11.74,amusement_arcade,6.46,drugstore,43.12
+299,박물관_검단선사박물관_1209.jpg,sandbox,15.34,patio,10.98,beer_garden,7.18,sandbox,15.34
+300,박물관_경기도어린이박물관_723.jpg,booth/indoor,42.41,drugstore,17.17,amusement_arcade,6.2,booth/indoor,42.41
+301,박물관_경기도어린이박물관_724.jpg,office_cubicles,30.48,office,22.5,lecture_room,6.15,office_cubicles,30.48
+302,박물관_경기도어린이박물관_725.jpg,kindergarden_classroom,60.07,nursery,22.23,childs_room,8.48,kindergarden_classroom,60.07
+303,박물관_경기북부어린이박물관_747.jpg,museum/outdoor,30.12,hospital,28.16,hotel/outdoor,5.0,museum/outdoor,30.12
+304,박물관_경기북부어린이박물관_748.jpg,recreation_room,39.7,playroom,38.65,kindergarden_classroom,14.34,recreation_room,39.7
+305,박물관_경기북부어린이박물관_749.jpg,entrance_hall,45.36,booth/indoor,13.63,airport_terminal,6.11,entrance_hall,45.36
+306,박물관_계양산성박물관_1213.jpg,science_museum,29.41,natural_history_museum,27.67,booth/indoor,23.03,science_museum,29.41
+307,박물관_계양산성박물관_1214.jpg,drugstore,11.9,pharmacy,5.92,conference_center,5.41,drugstore,11.9
+308,박물관_고양어린이박물관_730.jpg,aquarium,12.47,amusement_arcade,11.99,science_museum,10.19,aquarium,12.47
+309,박물관_고양어린이박물관_731.jpg,aquarium,9.47,canal/natural,8.91,amusement_arcade,8.34,aquarium,9.47
+310,박물관_국립고궁박물관_208.jpg,natural_history_museum,41.23,science_museum,19.74,museum/indoor,10.54,natural_history_museum,41.23
+311,박물관_국립고궁박물관_209.jpg,jail_cell,66.4,locker_room,9.67,elevator/door,8.38,jail_cell,66.4
+312,박물관_국립농업박물관_741.jpg,campus,79.46,rice_paddy,2.52,racecourse,2.25,campus,79.46
+313,박물관_국립농업박물관_742.jpg,formal_garden,62.12,roof_garden,8.89,campus,6.4,formal_garden,62.12
+314,박물관_국립농업박물관_743.jpg,atrium/public,49.43,shopping_mall/indoor,20.1,courtyard,5.82,atrium/public,49.43
+315,박물관_국립민속박물관 본관_206.jpg,drugstore,68.43,pharmacy,16.37,clean_room,7.43,drugstore,68.43
+316,박물관_국립세계문자박물관_1192.jpg,archive,11.52,drugstore,10.27,pharmacy,7.93,archive,11.52
+317,박물관_국립세계문자박물관_1193.jpg,museum/outdoor,22.01,skyscraper,20.49,downtown,16.81,museum/outdoor,22.01
+318,박물관_국립세계문자박물관_1194.jpg,downtown,42.55,skyscraper,20.08,plaza,6.3,downtown,42.55
+319,박물관_국립인천해양박물관_1186.jpg,nursery,24.86,childs_room,22.53,kindergarden_classroom,14.94,nursery,24.86
+320,박물관_국립인천해양박물관_1188.jpg,booth/indoor,23.72,hospital,9.22,conference_center,8.37,booth/indoor,23.72
+321,박물관_국립중앙박물관_199.jpg,museum/indoor,55.35,temple/asia,20.19,burial_chamber,16.52,museum/indoor,55.35
+322,박물관_국립중앙박물관_201.jpg,museum/indoor,60.1,art_gallery,12.24,art_studio,6.31,museum/indoor,60.1
+323,박물관_국립항공박물관_223.jpg,airplane_cabin,98.88,train_interior,0.34,elevator_lobby,0.08,airplane_cabin,98.88
+324,박물관_국립항공박물관_224.jpg,orchestra_pit,24.71,museum/indoor,22.91,stage/indoor,5.72,orchestra_pit,24.71
+325,박물관_국립해양박물관_1668.jpg,museum/outdoor,18.78,library/outdoor,13.74,hangar/outdoor,10.91,museum/outdoor,18.78
+326,박물관_국립해양박물관_1669.jpg,aquarium,92.33,science_museum,2.32,fountain,1.44,aquarium,92.33
+327,박물관_국립해양박물관_1670.jpg,artists_loft,60.54,museum/indoor,5.51,art_gallery,4.46,artists_loft,60.54
+328,박물관_대한민국역사박물관_202.jpg,booth/indoor,44.93,jewelry_shop,18.05,art_gallery,7.29,booth/indoor,44.93
+329,박물관_대한민국역사박물관_204.jpg,art_gallery,56.42,museum/indoor,15.64,art_studio,9.58,art_gallery,56.42
+330,박물관_부산영화체험박물관_1662.jpg,drugstore,30.89,pharmacy,6.24,hardware_store,4.84,drugstore,30.89
+331,박물관_부산영화체험박물관_1663.jpg,drugstore,22.04,hardware_store,5.74,pharmacy,5.11,drugstore,22.04
+332,박물관_부산영화체험박물관_1664.jpg,home_theater,56.32,airport_terminal,5.41,movie_theater/indoor,5.34,home_theater,56.32
+333,박물관_부산장난감박물관_1656.jpg,toyshop,22.22,gift_shop,21.16,storage_room,16.27,toyshop,22.22
+334,박물관_부산커피박물관_1672.jpg,coffee_shop,26.49,ice_cream_parlor,19.4,bakery/shop,7.4,coffee_shop,26.49
+335,박물관_부산커피박물관_1673.jpg,museum/indoor,39.74,science_museum,30.18,repair_shop,3.49,museum/indoor,39.74
+336,박물관_부평역사박물관_1180.jpg,parking_garage/outdoor,85.44,construction_site,3.22,office_building,2.81,parking_garage/outdoor,85.44
+337,박물관_부평역사박물관_1181.jpg,pagoda,33.59,schoolhouse,21.18,temple/asia,12.54,pagoda,33.59
+338,박물관_삼성화재 모빌리티뮤지엄_714.jpg,science_museum,22.02,hangar/indoor,16.05,parking_garage/indoor,15.4,science_museum,22.02
+339,박물관_서대문자연사박물관_214.jpg,natural_history_museum,82.82,science_museum,14.76,museum/indoor,2.28,natural_history_museum,82.82
+340,박물관_서대문자연사박물관_216.jpg,zen_garden,20.04,natural_history_museum,12.67,museum/outdoor,12.51,zen_garden,20.04
+341,박물관_서소문성지역사박물관_211.jpg,castle,35.57,church/outdoor,14.16,palace,13.03,castle,35.57
+342,박물관_서소문성지역사박물관_212.jpg,candy_store,17.66,art_gallery,13.24,museum/indoor,10.57,candy_store,17.66
+343,박물관_서울공예박물관_235.jpg,balcony/exterior,19.96,campus,14.43,balcony/interior,12.57,balcony/exterior,19.96
+344,박물관_서울공예박물관_236.jpg,natural_history_museum,37.93,science_museum,19.43,ice_floe,9.11,natural_history_museum,37.93
+345,박물관_서울공예박물관_237.jpg,ocean,8.79,beach,7.76,coast,5.3,ocean,8.79
+346,박물관_서울생활사박물관_226.jpg,playroom,84.65,kindergarden_classroom,10.96,childs_room,2.38,playroom,84.65
+347,박물관_서울생활사박물관_227.jpg,childs_room,30.53,playroom,25.65,kindergarden_classroom,25.4,childs_room,30.53
+348,박물관_서울생활사박물관_228.jpg,bakery/shop,37.94,childs_room,20.09,playroom,14.69,bakery/shop,37.94
+349,박물관_서울역사박물관_197.jpg,mosque/outdoor,47.86,motel,7.6,palace,3.92,mosque/outdoor,47.86
+350,박물관_서울역사박물관_198.jpg,legislative_chamber,74.87,conference_center,19.92,booth/indoor,2.91,legislative_chamber,74.87
+351,박물관_송파책박물관_239.jpg,pharmacy,22.06,drugstore,16.12,shoe_shop,15.38,pharmacy,22.06
+352,박물관_송파책박물관_240.jpg,library/indoor,64.64,archive,14.06,drugstore,8.92,library/indoor,64.64
+353,박물관_수원광교박물관_751.jpg,art_gallery,17.28,ice_cream_parlor,8.18,booth/indoor,6.6,art_gallery,17.28
+354,박물관_수원박물관_753.jpg,ticket_booth,61.54,phone_booth,11.0,industrial_area,7.97,ticket_booth,61.54
+355,박물관_수원박물관_754.jpg,skyscraper,83.66,downtown,9.98,sky,2.38,skyscraper,83.66
+356,박물관_수원박물관_755.jpg,burial_chamber,25.25,museum/indoor,20.78,archive,18.43,burial_chamber,25.25
+357,박물관_수원화성박물관_733.jpg,conference_center,61.88,office,5.58,booth/indoor,4.57,conference_center,61.88
+358,박물관_수원화성박물관_734.jpg,office,12.81,office_cubicles,12.08,server_room,7.05,office,12.81
+359,박물관_여주곤충박물관_744.jpg,amusement_arcade,37.32,toyshop,20.82,playroom,6.23,amusement_arcade,37.32
+360,박물관_영종역사관_1204.jpg,drugstore,25.63,pharmacy,12.6,pet_shop,9.79,drugstore,25.63
+361,박물관_영종역사관_1206.jpg,airfield,76.5,hangar/indoor,5.94,lawn,4.84,airfield,76.5
+362,박물관_인천광역시립박물관_1177.jpg,nursery,29.29,jewelry_shop,10.76,gift_shop,6.19,nursery,29.29
+363,박물관_인천광역시립박물관_1178.jpg,kindergarden_classroom,16.4,amusement_arcade,14.22,science_museum,13.8,kindergarden_classroom,16.4
+364,박물관_인천광역시립박물관_1179.jpg,kindergarden_classroom,21.84,childs_room,19.62,playroom,17.74,kindergarden_classroom,21.84
+365,박물관_인천어린이박물관_1216.jpg,shopfront,51.87,ticket_booth,16.9,doorway/outdoor,7.38,shopfront,51.87
+366,박물관_인천어린이박물관_1217.jpg,booth/indoor,44.35,reception,21.86,conference_center,9.06,booth/indoor,44.35
+367,박물관_인천어린이박물관_1218.jpg,drugstore,70.79,pharmacy,11.63,hardware_store,4.12,drugstore,70.79
+368,박물관_전곡선사박물관_738.jpg,drugstore,54.85,pharmacy,20.5,playroom,4.76,drugstore,54.85
+369,박물관_전곡선사박물관_739.jpg,playroom,25.95,childs_room,25.87,nursery,22.52,playroom,25.95
+370,박물관_전곡선사박물관_740.jpg,army_base,19.16,legislative_chamber,8.37,office,5.45,army_base,19.16
+371,박물관_증권박물관 부산관_1676.jpg,office_cubicles,76.7,office,14.58,home_office,4.38,office_cubicles,76.7
+372,박물관_짜장면박물관_1195.jpg,loading_dock,24.81,construction_site,12.36,hospital,8.62,loading_dock,24.81
+373,박물관_짜장면박물관_1197.jpg,coffee_shop,52.45,ice_cream_parlor,8.13,restaurant,6.29,coffee_shop,52.45
+374,박물관_철도박물관_717.jpg,jewelry_shop,16.95,clean_room,8.2,server_room,6.46,jewelry_shop,16.95
+375,박물관_철도박물관_718.jpg,ice_cream_parlor,14.89,hospital_room,10.69,beauty_salon,8.66,ice_cream_parlor,14.89
+376,박물관_철도박물관_719.jpg,loading_dock,52.18,hangar/outdoor,19.33,industrial_area,10.31,loading_dock,52.18
+377,박물관_청계천박물관_232.jpg,museum/indoor,17.39,railroad_track,8.69,archive,7.44,museum/indoor,17.39
+378,박물관_청계천박물관_234.jpg,booth/indoor,50.7,science_museum,14.95,archive,13.22,booth/indoor,50.7
+379,박물관_한국근대문학관_1219.jpg,campus,35.83,library/outdoor,20.68,office_building,7.65,campus,35.83
+380,박물관_한국근현대사박물관_737.jpg,childs_room,55.21,nursery,36.76,playroom,0.87,childs_room,55.21
+381,박물관_한국만화박물관_713.jpg,amusement_park,46.74,amphitheater,12.89,stadium/soccer,8.46,amusement_park,46.74
+382,박물관_한국은행 화폐박물관_217.jpg,kindergarden_classroom,43.77,playroom,13.1,booth/indoor,9.86,kindergarden_classroom,43.77
+383,박물관_한국은행 화폐박물관_218.jpg,roof_garden,95.64,vegetable_garden,0.5,zen_garden,0.46,roof_garden,95.64
+384,박물관_한국은행 화폐박물관_219.jpg,booth/indoor,82.91,pharmacy,4.66,drugstore,4.3,booth/indoor,82.91
+385,박물관_한국이민사박물관_1202.jpg,museum/indoor,59.91,archive,10.44,elevator/door,5.93,museum/indoor,59.91
+386,박물관_한국이민사박물관_1203.jpg,museum/outdoor,20.14,industrial_area,18.4,hospital,12.37,museum/outdoor,20.14
+387,박물관_한성백제박물관_220.jpg,plaza,29.64,hangar/outdoor,16.47,runway,11.92,plaza,29.64
+388,박물관_한성백제박물관_221.jpg,museum/indoor,26.91,flea_market/indoor,12.93,pharmacy,9.01,museum/indoor,26.91
+389,박물관_허준박물관_229.jpg,science_museum,75.73,natural_history_museum,9.27,museum/indoor,3.8,science_museum,75.73
+390,박물관_허준박물관_230.jpg,archive,16.48,sauna,12.47,museum/indoor,8.71,archive,16.48
+391,박물관_허준박물관_231.jpg,zen_garden,47.3,shopping_mall/indoor,7.19,courtyard,5.85,zen_garden,47.3
+392,봉수대_황령산 봉수대_1677.jpg,valley,23.41,village,22.42,mountain,10.31,valley,23.41
+393,봉수대_황령산 봉수대_1678.jpg,valley,45.49,village,18.4,mountain,17.22,valley,45.49
+394,봉수대_황령산 봉수대_1679.jpg,bridge,20.68,highway,8.38,forest_road,7.07,bridge,20.68
+395,뷔페_서울신라호텔 더 파크뷰_34.jpg,elevator/door,43.99,elevator_lobby,22.2,sauna,12.67,elevator/door,43.99
+396,뷔페_서울신라호텔 더 파크뷰_35.jpg,sushi_bar,23.94,restaurant_kitchen,11.67,artists_loft,8.64,sushi_bar,23.94
+397,뷔페_서울신라호텔 더 파크뷰_36.jpg,delicatessen,51.21,bakery/shop,29.25,restaurant,9.28,delicatessen,51.21
+398,브런치빈_브런치빈 삼산점_1034.jpg,delicatessen,88.49,pizzeria,4.53,bakery/shop,2.34,delicatessen,88.49
+399,브런치빈_브런치빈 송파점_13.jpg,delicatessen,36.94,bakery/shop,33.55,market/outdoor,9.26,delicatessen,36.94
+400,"사당,제단_오랑대_1689.jpg",lighthouse,54.9,islet,11.76,coast,8.53,lighthouse,54.9
+401,"사당,제단_종묘_250.jpg",park,12.95,promenade,11.8,campus,10.63,park,12.95
+402,"사당,제단_종묘_251.jpg",skyscraper,53.32,downtown,30.03,industrial_area,6.47,skyscraper,53.32
+403,"사당,제단_종묘_252.jpg",airport_terminal,35.42,server_room,29.32,ticket_booth,9.95,airport_terminal,35.42
+404,"사당,제단_참성단_1256.jpg",cliff,22.74,coast,12.64,swimming_pool/outdoor,12.02,cliff,22.74
+405,"사당,제단_참성단_1257.jpg",clean_room,32.16,igloo,16.62,martial_arts_gym,14.2,clean_room,32.16
+406,"사당,제단_참성단_1258.jpg",amphitheater,44.29,park,5.42,playground,4.16,amphitheater,44.29
+407,"산성,성곽_금정산성 동문_1686.jpg",beer_garden,20.97,campsite,17.66,restaurant_patio,13.92,beer_garden,20.97
+408,"산성,성곽_금정산성 동문_1687.jpg",driveway,19.05,park,15.46,parking_lot,9.36,driveway,19.05
+409,"산성,성곽_금정산성 동문_1688.jpg",valley,11.17,cemetery,10.69,gas_station,7.23,valley,11.17
+410,"산성,성곽_남한산성_761.jpg",childs_room,73.7,ice_floe,6.09,fabric_store,3.62,childs_room,73.7
+411,"산성,성곽_남한산성_762.jpg",mountain_path,86.19,forest_path,5.13,valley,2.71,mountain_path,86.19
+412,"산성,성곽_남한산성_763.jpg",amusement_park,35.8,tower,10.0,cemetery,4.7,amusement_park,35.8
+413,"산성,성곽_부산진성_1707.jpg",museum/outdoor,15.17,courtyard,13.9,castle,12.32,museum/outdoor,15.17
+414,"산성,성곽_부산진성_1708.jpg",landfill,55.27,underwater/ocean_deep,6.0,pond,2.79,landfill,55.27
+415,"산성,성곽_부산진성_1709.jpg",campus,36.2,hospital,15.22,building_facade,7.75,campus,36.2
+416,"산성,성곽_분오리돈대_1244.jpg",sky,30.24,water_tower,7.34,ice_shelf,5.14,sky,30.24
+417,"산성,성곽_분오리돈대_1246.jpg",rock_arch,63.63,grotto,16.58,burial_chamber,7.72,rock_arch,63.63
+418,"산성,성곽_수원화성_756.jpg",ice_skating_rink/outdoor,7.45,inn/outdoor,6.63,motel,5.02,ice_skating_rink/outdoor,7.45
+419,"산성,성곽_수원화성_758.jpg",tower,31.07,skyscraper,20.75,mosque/outdoor,5.46,tower,31.07
+420,"산성,성곽_연천호로고루_779.jpg",archaelogical_excavation,31.95,trench,24.22,landfill,15.57,archaelogical_excavation,31.95
+421,"산성,성곽_초지진_1229.jpg",ticket_booth,98.27,pharmacy,0.25,diner/outdoor,0.24,ticket_booth,98.27
+422,"산성,성곽_행주산성_764.jpg",booth/indoor,52.99,ticket_booth,33.25,archive,1.29,booth/indoor,52.99
+423,"산성,성곽_행주산성_765.jpg",highway,21.21,gas_station,13.77,crosswalk,8.81,highway,21.21
+424,"산성,성곽_행주산성_766.jpg",ice_floe,32.38,underwater/ocean_deep,22.96,ocean,6.05,ice_floe,32.38
+425,삼겹살_골목고깃집_902.jpg,delicatessen,41.48,pizzeria,30.27,butchers_shop,8.11,delicatessen,41.48
+426,삼겹살_골목식당_890.jpg,ice_cream_parlor,34.54,coffee_shop,30.69,bakery/shop,15.57,ice_cream_parlor,34.54
+427,삼겹살_골목식당_891.jpg,archive,92.33,hardware_store,0.97,bookstore,0.57,archive,92.33
+428,삼겹살_골목식당_892.jpg,galley,20.22,kitchen,17.77,utility_room,16.78,galley,20.22
+429,"생태보존,서식지_을숙도생태공원 호수형습지_1603.jpg",roof_garden,10.71,tower,8.87,plaza,6.09,roof_garden,10.71
+430,"수목원,식물원_국립수목원_594.jpg",campus,89.67,auditorium,2.81,legislative_chamber,1.77,campus,89.67
+431,"수목원,식물원_국립수목원_595.jpg",driveway,14.91,pavilion,8.89,zen_garden,5.02,driveway,14.91
+432,"수목원,식물원_금강식물원_1577.jpg",park,40.34,stage/outdoor,11.24,orchard,9.81,park,40.34
+433,"수목원,식물원_금강식물원_1578.jpg",topiary_garden,55.24,japanese_garden,35.76,zen_garden,5.99,topiary_garden,55.24
+434,"수목원,식물원_금강식물원_1579.jpg",japanese_garden,71.21,zen_garden,15.21,fishpond,7.42,japanese_garden,71.21
+435,"수목원,식물원_남산야외식물원_97.jpg",field/wild,27.23,forest_road,22.78,highway,18.8,field/wild,27.23
+436,"수목원,식물원_남산야외식물원_98.jpg",zen_garden,47.72,temple/asia,23.46,japanese_garden,16.4,zen_garden,47.72
+437,"수목원,식물원_대구수목원_1965.jpg",forest_road,32.03,zen_garden,10.68,residential_neighborhood,9.09,forest_road,32.03
+438,"수목원,식물원_더그림_596.jpg",formal_garden,79.06,vegetable_garden,5.77,roof_garden,4.27,formal_garden,79.06
+439,"수목원,식물원_더그림_597.jpg",porch,15.37,general_store/outdoor,14.12,inn/outdoor,7.51,porch,15.37
+440,"수목원,식물원_더그림_598.jpg",vegetable_garden,38.71,roof_garden,13.13,patio,7.67,vegetable_garden,38.71
+441,"수목원,식물원_도당근린공원 백만송이장미원_617.jpg",amusement_arcade,44.2,cockpit,10.62,recreation_room,7.22,amusement_arcade,44.2
+442,"수목원,식물원_도당근린공원 백만송이장미원_618.jpg",shopfront,49.27,diner/outdoor,13.49,general_store/outdoor,8.82,shopfront,49.27
+443,"수목원,식물원_도당근린공원 백만송이장미원_619.jpg",formal_garden,67.64,botanical_garden,8.95,park,5.54,formal_garden,67.64
+444,"수목원,식물원_물향기수목원_590.jpg",botanical_garden,29.84,pond,11.34,formal_garden,8.04,botanical_garden,29.84
+445,"수목원,식물원_물향기수목원_591.jpg",server_room,17.34,drugstore,12.26,office_cubicles,4.95,server_room,17.34
+446,"수목원,식물원_물향기수목원_592.jpg",sky,13.91,conference_center,8.65,drugstore,4.72,sky,13.91
+447,"수목원,식물원_바다향기수목원_606.jpg",booth/indoor,8.06,reception,6.59,general_store/outdoor,5.71,booth/indoor,8.06
+448,"수목원,식물원_바다향기수목원_607.jpg",bus_interior,88.31,train_interior,11.66,airplane_cabin,0.01,bus_interior,88.31
+449,"수목원,식물원_벽초지수목원_587.jpg",vineyard,17.77,field/cultivated,17.28,farm,11.89,vineyard,17.77
+450,"수목원,식물원_벽초지수목원_589.jpg",booth/indoor,23.56,ice_cream_parlor,11.34,museum/indoor,8.46,booth/indoor,23.56
+451,"수목원,식물원_부산시수목전시원_1582.jpg",gazebo/exterior,72.44,pavilion,9.53,boathouse,5.3,gazebo/exterior,72.44
+452,"수목원,식물원_부산어린이식물원_1592.jpg",art_school,62.63,sandbox,15.06,kindergarden_classroom,6.17,art_school,62.63
+453,"수목원,식물원_부산어린이식물원_1593.jpg",formal_garden,70.67,field/cultivated,7.73,rice_paddy,4.79,formal_garden,70.67
+454,"수목원,식물원_부산어린이식물원_1594.jpg",veterinarians_office,52.56,pet_shop,15.26,racecourse,6.14,veterinarians_office,52.56
+455,"수목원,식물원_부산화명수목원_1568.jpg",vegetable_garden,55.37,botanical_garden,9.76,roof_garden,8.16,vegetable_garden,55.37
+456,"수목원,식물원_부산화명수목원_1569.jpg",vegetable_garden,49.79,botanical_garden,9.23,field_road,8.28,vegetable_garden,49.79
+457,"수목원,식물원_부산화명수목원_1570.jpg",home_theater,15.69,pet_shop,13.52,amusement_arcade,11.78,home_theater,15.69
+458,"수목원,식물원_북한산식물원_113.jpg",mountain_snowy,17.63,street,16.39,ski_resort,11.68,mountain_snowy,17.63
+459,"수목원,식물원_북한산식물원_114.jpg",greenhouse/indoor,53.2,roof_garden,21.94,botanical_garden,10.23,greenhouse/indoor,53.2
+460,"수목원,식물원_사바나농장_115.jpg",jewelry_shop,52.9,gift_shop,23.6,flea_market/indoor,8.85,jewelry_shop,52.9
+461,"수목원,식물원_사바나농장_116.jpg",greenhouse/indoor,86.86,vegetable_garden,4.62,greenhouse/outdoor,2.41,greenhouse/indoor,86.86
+462,"수목원,식물원_사바나농장_117.jpg",shoe_shop,27.34,bakery/shop,16.48,gift_shop,8.27,shoe_shop,27.34
+463,"수목원,식물원_서경하늘수목원_1601.jpg",motel,36.92,railroad_track,9.73,chalet,5.86,motel,36.92
+464,"수목원,식물원_서울식물원_88.jpg",childs_room,36.43,fabric_store,14.24,shoe_shop,8.66,childs_room,36.43
+465,"수목원,식물원_서울어린이대공원 식물원_106.jpg",nursery,38.8,ice_shelf,15.35,childs_room,5.36,nursery,38.8
+466,"수목원,식물원_서울어린이대공원 식물원_107.jpg",roof_garden,27.03,tree_farm,16.61,formal_garden,11.78,roof_garden,27.03
+467,"수목원,식물원_서울어린이대공원 식물원_108.jpg",museum/indoor,25.62,kasbah,12.46,natural_history_museum,9.95,museum/indoor,25.62
+468,"수목원,식물원_석모도수목원_1101.jpg",formal_garden,27.2,botanical_garden,19.1,vegetable_garden,9.21,formal_garden,27.2
+469,"수목원,식물원_석모도수목원_1102.jpg",boardwalk,15.33,botanical_garden,8.2,park,8.18,boardwalk,15.33
+470,"수목원,식물원_석모도수목원_1103.jpg",promenade,66.9,residential_neighborhood,7.31,train_station/platform,4.05,promenade,66.9
+471,"수목원,식물원_선유도공원 시간의정원_104.jpg",boardwalk,21.5,lock_chamber,12.39,tree_house,10.45,boardwalk,21.5
+472,"수목원,식물원_선유도공원 온실_124.jpg",greenhouse/outdoor,96.17,greenhouse/indoor,3.28,roof_garden,0.11,greenhouse/outdoor,96.17
+473,"수목원,식물원_세미원_578.jpg",embassy,10.47,hotel/outdoor,8.49,parking_garage/outdoor,8.37,embassy,10.47
+474,"수목원,식물원_세미원_579.jpg",art_gallery,12.8,art_studio,5.19,barndoor,4.32,art_gallery,12.8
+475,"수목원,식물원_세미원_580.jpg",orchard,49.44,botanical_garden,18.31,tree_farm,16.58,orchard,49.44
+476,"수목원,식물원_신구대학교식물원_608.jpg",rainforest,34.48,botanical_garden,24.98,vegetable_garden,18.89,rainforest,34.48
+477,"수목원,식물원_신구대학교식물원_610.jpg",rainforest,40.3,botanical_garden,33.01,vegetable_garden,8.63,rainforest,40.3
+478,"수목원,식물원_아차산어울림정원 자생식물원_121.jpg",water_park,36.69,amusement_park,25.17,promenade,19.08,water_park,36.69
+479,"수목원,식물원_아차산어울림정원 자생식물원_122.jpg",motel,43.59,picnic_area,16.7,park,15.06,motel,43.59
+480,"수목원,식물원_아침고요수목원_585.jpg",gazebo/exterior,33.59,pavilion,12.62,vegetable_garden,8.57,gazebo/exterior,33.59
+481,"수목원,식물원_아침고요수목원_586.jpg",japanese_garden,81.71,pond,7.16,botanical_garden,2.91,japanese_garden,81.71
+482,"수목원,식물원_아홉산숲_1572.jpg",formal_garden,27.23,driveway,17.16,japanese_garden,14.54,formal_garden,27.23
+483,"수목원,식물원_아홉산숲_1573.jpg",bamboo_forest,88.74,forest_path,6.65,forest_road,1.88,bamboo_forest,88.74
+484,"수목원,식물원_영흥수목원_612.jpg",parking_garage/outdoor,56.68,downtown,15.08,apartment_building/outdoor,9.42,parking_garage/outdoor,56.68
+485,"수목원,식물원_영흥수목원_613.jpg",park,26.39,highway,16.65,kennel/outdoor,11.11,park,26.39
+486,"수목원,식물원_인천나비공원 수생식물원_1098.jpg",botanical_garden,18.22,greenhouse/outdoor,11.94,park,9.61,botanical_garden,18.22
+487,"수목원,식물원_인천나비공원 수생식물원_1099.jpg",rice_paddy,67.76,japanese_garden,9.67,zen_garden,3.7,rice_paddy,67.76
+488,"수목원,식물원_인천수목원_1090.jpg",promenade,58.42,park,20.74,forest_road,10.87,promenade,58.42
+489,"수목원,식물원_인천수목원_1091.jpg",japanese_garden,35.12,zen_garden,17.81,park,15.27,japanese_garden,35.12
+490,"수목원,식물원_인천환경공단 청라생태공원 온실_1104.jpg",restaurant_patio,16.82,beer_garden,13.63,bazaar/outdoor,12.7,restaurant_patio,16.82
+491,"수목원,식물원_인천환경공단 청라생태공원 온실_1105.jpg",forest_path,40.62,forest_road,10.05,park,8.36,forest_path,40.62
+492,"수목원,식물원_장산산림욕장_1591.jpg",forest_path,48.82,forest_road,24.31,park,7.02,forest_path,48.82
+493,"수목원,식물원_창경궁 대온실_94.jpg",greenhouse/outdoor,88.8,library/outdoor,1.99,hospital,1.4,greenhouse/outdoor,88.8
+494,"수목원,식물원_창경궁 대온실_95.jpg",botanical_garden,19.15,pond,14.22,japanese_garden,7.28,botanical_garden,19.15
+495,"수목원,식물원_창경궁 대온실_96.jpg",cemetery,29.59,fountain,17.48,ruin,14.25,cemetery,29.59
+496,"수목원,식물원_푸른수목원_91.jpg",boardwalk,57.07,corral,14.08,rope_bridge,5.5,boardwalk,57.07
+497,"수목원,식물원_푸른수목원_92.jpg",residential_neighborhood,33.8,field/wild,28.6,forest_road,14.72,residential_neighborhood,33.8
+498,"수목원,식물원_푸른수목원_93.jpg",kennel/outdoor,8.51,ice_shelf,8.08,booth/indoor,6.23,kennel/outdoor,8.51
+499,"수목원,식물원_한택식물원_602.jpg",vegetable_garden,46.59,botanical_garden,22.01,greenhouse/indoor,6.33,vegetable_garden,46.59
+500,"수목원,식물원_한택식물원_603.jpg",florist_shop/indoor,38.56,botanical_garden,25.98,vegetable_garden,15.57,florist_shop/indoor,38.56
+501,"수목원,식물원_한택식물원_604.jpg",field_road,60.02,botanical_garden,13.54,florist_shop/indoor,11.24,field_road,60.02
+502,"수목원,식물원_해운대수목원_1574.jpg",park,26.94,highway,12.36,forest_road,10.17,park,26.94
+503,"수목원,식물원_해운대수목원_1576.jpg",vineyard,29.55,formal_garden,17.62,field/cultivated,15.88,vineyard,29.55
+504,"수목원,식물원_화담숲_583.jpg",botanical_garden,18.38,japanese_garden,16.3,tree_farm,16.09,botanical_garden,18.38
+505,"수목원,식물원_황학산수목원_620.jpg",underwater/ocean_deep,29.0,rice_paddy,12.86,fishpond,6.87,underwater/ocean_deep,29.0
+506,순대_골목순대국_390.jpg,fastfood_restaurant,25.33,coffee_shop,9.75,arcade,8.45,fastfood_restaurant,25.33
+507,순대_골목순대국_391.jpg,butchers_shop,70.02,delicatessen,22.16,bakery/shop,5.46,butchers_shop,70.02
+508,순대_골목순대국_392.jpg,bazaar/outdoor,22.51,market/indoor,17.59,bazaar/indoor,9.58,bazaar/outdoor,22.51
+509,술집_숨은골목_388.jpg,drugstore,30.75,pharmacy,11.6,hardware_store,7.27,drugstore,30.75
+510,시장_가락시장_336.jpg,bookstore,24.28,department_store,13.93,market/indoor,13.33,bookstore,24.28
+511,시장_가락시장_337.jpg,hardware_store,43.55,flea_market/indoor,14.78,market/indoor,11.08,hardware_store,43.55
+512,시장_가락시장_338.jpg,gas_station,70.17,parking_lot,11.71,highway,5.54,gas_station,70.17
+513,시장_강남시장_1337.jpg,airport_terminal,13.36,shopping_mall/indoor,12.3,crosswalk,5.94,airport_terminal,13.36
+514,시장_강화풍물시장_1328.jpg,parking_lot,97.47,motel,0.49,raceway,0.38,parking_lot,97.47
+515,시장_경동시장_333.jpg,laundromat,96.48,utility_room,2.01,bank_vault,0.41,laundromat,96.48
+516,시장_경동시장_334.jpg,jail_cell,55.14,kennel/outdoor,33.09,pet_shop,6.72,jail_cell,55.14
+517,시장_계양산전통시장_1334.jpg,airport_terminal,31.57,shopping_mall/indoor,9.87,flea_market/indoor,8.81,airport_terminal,31.57
+518,시장_계양산전통시장_1335.jpg,movie_theater/indoor,14.93,lecture_room,11.18,home_theater,9.06,movie_theater/indoor,14.93
+519,시장_계양산전통시장_1336.jpg,shower,83.35,closet,8.11,bathroom,2.84,shower,83.35
+520,시장_광명전통시장_869.jpg,bookstore,26.23,archive,19.87,server_room,5.92,bookstore,26.23
+521,시장_광장시장_321.jpg,delicatessen,26.42,market/indoor,23.67,flea_market/indoor,16.45,delicatessen,26.42
+522,시장_광장시장_323.jpg,shopfront,24.57,diner/outdoor,12.17,market/indoor,9.74,shopfront,24.57
+523,시장_교동대룡시장_1313.jpg,storage_room,18.4,repair_shop,5.99,bathroom,5.69,storage_room,18.4
+524,시장_교동대룡시장_1314.jpg,coffee_shop,51.86,restaurant,8.31,cafeteria,3.52,coffee_shop,51.86
+525,시장_교동대룡시장_1315.jpg,sushi_bar,45.82,conference_room,21.03,conference_center,3.6,sushi_bar,45.82
+526,시장_구리전통시장_851.jpg,martial_arts_gym,71.39,classroom,6.07,lecture_room,4.31,martial_arts_gym,71.39
+527,시장_구리전통시장_853.jpg,booth/indoor,63.82,conference_center,8.41,legislative_chamber,5.45,booth/indoor,63.82
+528,시장_구포시장_1774.jpg,jewelry_shop,81.24,music_studio,15.35,archive,0.85,jewelry_shop,81.24
+529,시장_구포시장_1775.jpg,jail_cell,36.68,pet_shop,32.16,kennel/outdoor,20.33,jail_cell,36.68
+530,시장_국제시장_1764.jpg,market/indoor,22.02,shopping_mall/indoor,15.25,arcade,8.35,market/indoor,22.02
+531,시장_국제시장_1766.jpg,bazaar/outdoor,46.95,crosswalk,10.93,street,9.06,bazaar/outdoor,46.95
+532,시장_기장시장_1786.jpg,bazaar/outdoor,54.7,market/outdoor,32.06,flea_market/indoor,7.54,bazaar/outdoor,54.7
+533,시장_기장시장_1787.jpg,flea_market/indoor,25.12,market/outdoor,20.77,art_school,6.5,flea_market/indoor,25.12
+534,시장_남대문시장_325.jpg,bazaar/outdoor,26.4,slum,18.25,butchers_shop,10.59,bazaar/outdoor,26.4
+535,시장_남촌농산물도매시장_1322.jpg,market/indoor,67.85,flea_market/indoor,14.17,supermarket,8.71,market/indoor,67.85
+536,시장_남촌농산물도매시장_1323.jpg,department_store,24.97,bazaar/indoor,12.03,flea_market/indoor,11.05,department_store,24.97
+537,시장_남촌농산물도매시장_1324.jpg,volleyball_court/outdoor,23.41,campus,20.76,plaza,13.83,volleyball_court/outdoor,23.41
+538,시장_노량진수산물도매시장_340.jpg,assembly_line,33.1,auto_factory,30.69,hardware_store,18.81,assembly_line,33.1
+539,시장_노량진수산물도매시장_341.jpg,department_store,31.28,drugstore,18.39,pharmacy,10.87,department_store,31.28
+540,시장_독립문 영천시장_363.jpg,diner/outdoor,24.73,restaurant_patio,11.02,coffee_shop,10.45,diner/outdoor,24.73
+541,시장_동대문종합시장_330.jpg,parking_garage/outdoor,55.63,hospital,17.58,embassy,9.66,parking_garage/outdoor,55.63
+542,시장_동대문종합시장_332.jpg,hospital,41.9,embassy,32.77,hotel/outdoor,5.64,hospital,41.9
+543,시장_동래시장_1782.jpg,bazaar/outdoor,63.47,market/outdoor,6.86,flea_market/indoor,5.59,bazaar/outdoor,63.47
+544,시장_동래시장_1783.jpg,auditorium,72.21,classroom,7.2,lecture_room,5.67,auditorium,72.21
+545,시장_동래시장_1784.jpg,clothing_store,34.12,beauty_salon,9.97,department_store,4.91,clothing_store,34.12
+546,시장_동묘시장_345.jpg,market/outdoor,58.34,bazaar/outdoor,22.69,downtown,4.36,market/outdoor,58.34
+547,시장_동묘시장_347.jpg,street,33.86,crosswalk,17.31,bazaar/outdoor,14.15,street,33.86
+548,시장_마장축산물시장_357.jpg,conference_center,23.03,legislative_chamber,19.29,stage/indoor,18.13,conference_center,23.03
+549,시장_마장축산물시장_358.jpg,stadium/soccer,33.85,amphitheater,29.02,stadium/football,10.82,stadium/soccer,33.85
+550,시장_마장축산물시장_359.jpg,downtown,13.95,parking_garage/outdoor,12.21,ticket_booth,8.88,downtown,13.95
+551,시장_망원시장_327.jpg,recreation_room,12.56,amusement_arcade,12.32,computer_room,11.63,recreation_room,12.56
+552,시장_망원시장_328.jpg,airport_terminal,23.41,pharmacy,20.04,gas_station,18.28,airport_terminal,23.41
+553,시장_망원시장_329.jpg,fastfood_restaurant,32.11,candy_store,26.31,ice_cream_parlor,18.44,fastfood_restaurant,32.11
+554,시장_모란민속5일장_842.jpg,booth/indoor,34.6,plaza,11.07,bazaar/outdoor,9.58,booth/indoor,34.6
+555,시장_모란민속5일장_843.jpg,parking_lot,52.39,downtown,11.51,beach_house,4.65,parking_lot,52.39
+556,시장_모래내시장_1316.jpg,bazaar/indoor,53.07,market/indoor,23.09,bazaar/outdoor,10.65,bazaar/indoor,53.07
+557,시장_모래내시장_1317.jpg,basketball_court/indoor,25.59,stadium/soccer,15.84,martial_arts_gym,12.29,basketball_court/indoor,25.59
+558,시장_목동깨비시장_351.jpg,street,18.16,bazaar/outdoor,14.61,market/outdoor,12.05,street,18.16
+559,시장_목동깨비시장_352.jpg,street,64.06,bazaar/outdoor,20.84,alley,4.8,street,64.06
+560,시장_목동깨비시장_353.jpg,toyshop,68.29,playroom,2.85,bazaar/outdoor,2.69,toyshop,68.29
+561,시장_민락회타운시장_1798.jpg,parking_garage/outdoor,41.13,hospital,34.16,office_building,14.4,parking_garage/outdoor,41.13
+562,시장_반여농산물도매시장_1779.jpg,playroom,25.35,art_studio,21.7,childs_room,9.29,playroom,25.35
+563,시장_반여농산물도매시장_1780.jpg,server_room,72.22,archive,14.12,kennel/outdoor,1.34,server_room,72.22
+564,시장_반여농산물도매시장_1781.jpg,parking_lot,25.55,residential_neighborhood,17.41,industrial_area,13.21,parking_lot,25.55
+565,시장_발안만세시장_875.jpg,booth/indoor,21.46,art_gallery,15.09,kindergarden_classroom,12.55,booth/indoor,21.46
+566,시장_발안만세시장_876.jpg,archive,83.95,server_room,4.6,locker_room,2.83,archive,83.95
+567,시장_방산시장_360.jpg,bazaar/outdoor,32.15,market/outdoor,7.73,street,7.47,bazaar/outdoor,32.15
+568,시장_방산시장_361.jpg,bazaar/outdoor,57.6,slum,30.61,market/outdoor,4.38,bazaar/outdoor,57.6
+569,시장_방산시장_362.jpg,airplane_cabin,43.76,storage_room,11.24,car_interior,9.01,airplane_cabin,43.76
+570,시장_부산진시장_1767.jpg,office,30.64,office_cubicles,11.85,nursing_home,9.68,office,30.64
+571,시장_부산진시장_1768.jpg,nursing_home,20.05,office,16.34,lobby,11.51,nursing_home,20.05
+572,시장_부산진시장_1769.jpg,highway,32.61,downtown,26.92,lock_chamber,12.24,highway,32.61
+573,시장_부전시장_1758.jpg,nursery,17.94,playground,13.12,beauty_salon,13.02,nursery,17.94
+574,시장_부전시장_1759.jpg,beauty_salon,53.28,ice_cream_parlor,14.72,nursery,4.21,beauty_salon,53.28
+575,시장_부전시장_1760.jpg,candy_store,54.0,market/outdoor,18.83,gift_shop,6.23,candy_store,54.0
+576,시장_부평깡통시장_1761.jpg,delicatessen,19.41,food_court,17.95,fastfood_restaurant,11.01,delicatessen,19.41
+577,시장_부평깡통시장_1762.jpg,diner/outdoor,16.45,shopfront,12.81,general_store/outdoor,11.84,diner/outdoor,16.45
+578,시장_부평깡통시장_1763.jpg,market/indoor,43.66,bazaar/indoor,31.01,arcade,8.3,market/indoor,43.66
+579,시장_부평종합시장_1325.jpg,market/indoor,28.92,bazaar/indoor,21.31,market/outdoor,18.3,market/indoor,28.92
+580,시장_삼미시장_845.jpg,general_store/indoor,44.58,delicatessen,8.68,candy_store,5.84,general_store/indoor,44.58
+581,시장_삼미시장_846.jpg,supermarket,41.35,delicatessen,22.97,department_store,14.73,supermarket,41.35
+582,시장_삼산농산물도매시장_1346.jpg,clean_room,69.28,server_room,14.03,office_cubicles,1.99,clean_room,69.28
+583,시장_삼산농산물도매시장_1347.jpg,lock_chamber,26.25,aqueduct,8.47,beach_house,7.0,lock_chamber,26.25
+584,시장_삼산농산물도매시장_1348.jpg,downtown,23.72,industrial_area,16.83,roof_garden,10.29,downtown,23.72
+585,시장_서면시장_1795.jpg,arcade,28.7,market/indoor,22.23,bazaar/indoor,19.4,arcade,28.7
+586,시장_서울풍물시장_354.jpg,legislative_chamber,98.14,office,0.91,conference_center,0.42,legislative_chamber,98.14
+587,시장_서울풍물시장_355.jpg,shopfront,13.37,jewelry_shop,9.79,drugstore,7.41,shopfront,13.37
+588,시장_서울풍물시장_356.jpg,florist_shop/indoor,25.27,rainforest,10.15,field_road,10.08,florist_shop/indoor,25.27
+589,시장_서원시장_1791.jpg,arcade,47.88,bazaar/indoor,7.63,fastfood_restaurant,7.17,arcade,47.88
+590,시장_성남중앙공설시장_878.jpg,parking_garage/outdoor,33.01,hotel/outdoor,19.12,hospital,16.35,parking_garage/outdoor,33.01
+591,시장_성남중앙공설시장_880.jpg,supermarket,62.76,department_store,20.59,market/indoor,4.97,supermarket,62.76
+592,시장_소래포구종합어시장_1310.jpg,promenade,41.69,amusement_park,19.29,boardwalk,7.81,promenade,41.69
+593,시장_수원시농수산물도매시장_860.jpg,construction_site,21.31,parking_lot,21.26,industrial_area,18.59,construction_site,21.31
+594,시장_수원시농수산물도매시장_861.jpg,assembly_line,31.02,auto_factory,26.24,flea_market/indoor,7.12,assembly_line,31.02
+595,시장_수원시농수산물도매시장_862.jpg,arena/performance,17.82,conference_center,14.89,stadium/football,9.65,arena/performance,17.82
+596,시장_신기시장_1331.jpg,kindergarden_classroom,72.3,art_school,11.92,classroom,10.54,kindergarden_classroom,72.3
+597,시장_신기시장_1333.jpg,booth/indoor,45.19,ticket_booth,15.88,subway_station/platform,5.45,booth/indoor,45.19
+598,시장_신흥시장_343.jpg,wet_bar,31.38,pantry,21.53,bar,18.08,wet_bar,31.38
+599,시장_신흥시장_344.jpg,arcade,57.96,atrium/public,15.43,shopping_mall/indoor,12.36,arcade,57.96
+600,시장_안양농수산물도매시장 수산동_881.jpg,classroom,36.42,lecture_room,19.98,kindergarden_classroom,11.93,classroom,36.42
+601,시장_안양농수산물도매시장 수산동_882.jpg,hospital,75.35,office_building,7.15,campus,5.88,hospital,75.35
+602,시장_안양농수산물도매시장 수산동_883.jpg,elevator_shaft,37.64,basement,15.26,jail_cell,9.46,elevator_shaft,37.64
+603,시장_안양중앙시장_866.jpg,bakery/shop,35.92,delicatessen,25.31,butchers_shop,11.29,bakery/shop,35.92
+604,시장_안양중앙시장_867.jpg,bullring,79.74,plaza,4.17,stadium/football,2.92,bullring,79.74
+605,시장_안양중앙시장_868.jpg,bullring,22.62,stadium/soccer,16.92,stadium/football,15.78,bullring,22.62
+606,시장_용인중앙시장_854.jpg,fire_station,38.11,ski_resort,8.66,hotel/outdoor,7.32,fire_station,38.11
+607,시장_용인중앙시장_855.jpg,kindergarden_classroom,50.6,locker_room,22.14,classroom,6.6,kindergarden_classroom,50.6
+608,시장_용인중앙시장_856.jpg,drugstore,25.74,pharmacy,13.59,hardware_store,8.06,drugstore,25.74
+609,시장_용현시장_1340.jpg,market/outdoor,66.38,art_school,9.8,flea_market/indoor,5.72,market/outdoor,66.38
+610,시장_용현시장_1341.jpg,bazaar/outdoor,67.94,market/outdoor,10.64,medina,3.88,bazaar/outdoor,67.94
+611,시장_용현시장_1342.jpg,market/outdoor,84.24,supermarket,7.61,market/indoor,2.65,market/outdoor,84.24
+612,시장_원당시장_884.jpg,conference_center,32.17,office,10.96,reception,9.46,conference_center,32.17
+613,시장_원당시장_886.jpg,pharmacy,39.92,biology_laboratory,10.27,drugstore,9.28,pharmacy,39.92
+614,시장_의정부제일시장_872.jpg,alley,36.04,bazaar/outdoor,20.34,arcade,8.82,alley,36.04
+615,시장_의정부제일시장_873.jpg,market/outdoor,44.42,delicatessen,19.34,gift_shop,5.66,market/outdoor,44.42
+616,시장_의정부제일시장_874.jpg,clean_room,19.97,office_cubicles,15.82,locker_room,15.02,clean_room,19.97
+617,시장_인천석바위시장_1352.jpg,ticket_booth,44.53,general_store/outdoor,11.03,doorway/outdoor,7.45,ticket_booth,44.53
+618,시장_인천석바위시장_1353.jpg,ticket_booth,29.37,diner/outdoor,21.93,general_store/outdoor,4.94,ticket_booth,29.37
+619,시장_인천석바위시장_1354.jpg,utility_room,37.73,alcove,15.82,entrance_hall,7.75,utility_room,37.73
+620,시장_인천종합어시장_1319.jpg,sky,30.24,water_tower,7.34,ice_shelf,5.14,sky,30.24
+621,시장_인천종합어시장_1320.jpg,booth/indoor,22.2,art_school,21.48,classroom,6.68,booth/indoor,22.2
+622,시장_인천종합어시장_1321.jpg,office,20.69,office_cubicles,19.01,server_room,12.14,office,20.69
+623,시장_일산시장_848.jpg,airport_terminal,26.53,science_museum,12.31,mezzanine,10.7,airport_terminal,26.53
+624,시장_자유도매시장_1789.jpg,drugstore,26.77,pharmacy,22.05,hospital,14.01,drugstore,26.77
+625,시장_자유도매시장_1790.jpg,shopfront,41.6,ticket_booth,10.47,fastfood_restaurant,3.92,shopfront,41.6
+626,시장_장림골목시장_1777.jpg,drugstore,33.66,booth/indoor,10.18,pharmacy,8.48,drugstore,33.66
+627,시장_장림골목시장_1778.jpg,bakery/shop,18.81,delicatessen,18.28,restaurant_kitchen,15.45,bakery/shop,18.81
+628,시장_정서진중앙시장_1343.jpg,restaurant_patio,32.4,cafeteria,18.12,food_court,16.53,restaurant_patio,32.4
+629,시장_정서진중앙시장_1344.jpg,market/outdoor,79.36,bazaar/outdoor,9.23,flea_market/indoor,5.07,market/outdoor,79.36
+630,시장_토지금고시장_1349.jpg,bakery/shop,69.28,delicatessen,15.22,fastfood_restaurant,3.9,bakery/shop,69.28
+631,시장_토지금고시장_1351.jpg,street,15.01,downtown,13.8,parking_garage/outdoor,12.66,street,15.01
+632,시장_해운대전통시장_1770.jpg,fastfood_restaurant,33.38,ice_cream_parlor,15.36,department_store,7.5,fastfood_restaurant,33.38
+633,시장_해운대전통시장_1771.jpg,bazaar/outdoor,31.85,market/indoor,12.6,market/outdoor,9.49,bazaar/outdoor,31.85
+634,시장_해운대전통시장_1772.jpg,bakery/shop,50.88,restaurant_kitchen,10.24,restaurant,9.7,bakery/shop,50.88
+635,실내포장마차_골목정원_1355.jpg,alley,25.42,medina,10.65,art_studio,5.34,alley,25.42
+636,실내포장마차_골목포차_1801.jpg,elevator/door,14.53,motel,12.47,ticket_booth,12.39,elevator/door,14.53
+637,아파트_수목원호정포레스트아파트_1977.jpg,stage/outdoor,16.43,plaza,14.04,amphitheater,13.26,stage/outdoor,16.43
+638,양식_낭만놀이_1908.jpg,alley,69.91,medina,24.04,fire_escape,1.19,alley,69.91
+639,양식_디노브런치앤다이닝_1502.jpg,shopfront,49.64,diner/outdoor,20.76,pharmacy,5.36,shopfront,49.64
+640,양식_디노브런치앤다이닝_1503.jpg,restaurant,25.1,dining_hall,16.84,coffee_shop,11.04,restaurant,25.1
+641,양식_디노브런치앤다이닝_1504.jpg,coffee_shop,65.19,restaurant,24.55,food_court,4.06,coffee_shop,65.19
+642,양식_로앤쿡드 더브런치_42.jpg,diner/outdoor,20.93,shopfront,20.39,arcade,19.82,diner/outdoor,20.93
+643,양식_문라이트브런치카페_1914.jpg,delicatessen,62.22,bakery/shop,10.51,market/outdoor,5.43,delicatessen,62.22
+644,양식_문라이트브런치카페_1915.jpg,delicatessen,57.66,bakery/shop,8.18,pizzeria,7.82,delicatessen,57.66
+645,양식_문라이트브런치카페_1916.jpg,parking_lot,41.59,industrial_area,24.96,hospital,7.5,parking_lot,41.59
+646,양식_브런치 앤 디너 테라비 부산대점_1515.jpg,pizzeria,31.9,bakery/shop,24.62,delicatessen,22.57,pizzeria,31.9
+647,양식_브런치 앤 디너 테라비 부산대점_1516.jpg,delicatessen,48.3,bakery/shop,16.85,pizzeria,8.47,delicatessen,48.3
+648,양식_서울바다카페_486.jpg,coffee_shop,44.14,bakery/shop,25.91,ice_cream_parlor,18.13,coffee_shop,44.14
+649,양식_서울바다카페_487.jpg,restaurant,17.03,bar,13.59,science_museum,11.58,restaurant,17.03
+650,양식_서울바다카페_488.jpg,boat_deck,58.63,ocean,14.52,harbor,6.82,boat_deck,58.63
+651,양식_이디엘브런치하우스_1893.jpg,lobby,37.87,waiting_room,16.98,living_room,13.22,lobby,37.87
+652,양식_이디엘브런치하우스_1894.jpg,bakery/shop,62.09,delicatessen,20.46,restaurant,5.76,bakery/shop,62.09
+653,양식_퐁당퐁당브런치_536.jpg,pizzeria,82.01,delicatessen,13.37,bakery/shop,2.25,pizzeria,82.01
+654,온천_수목원생활온천_1975.jpg,hotel/outdoor,40.85,library/outdoor,29.42,embassy,6.72,hotel/outdoor,40.85
+655,온천_수목원생활온천_1976.jpg,mezzanine,18.2,staircase,13.77,sushi_bar,7.31,mezzanine,18.2
+656,워터테마파크_누리워터파크_1295.jpg,water_park,80.33,playground,5.17,park,3.41,water_park,80.33
+657,워터테마파크_누리워터파크_1296.jpg,ball_pit,58.23,water_park,15.56,playground,4.88,ball_pit,58.23
+658,워터테마파크_씨랄라워터파크_288.jpg,ball_pit,98.01,pet_shop,0.78,kennel/outdoor,0.36,ball_pit,98.01
+659,워터테마파크_아쿠아필드 고양_836.jpg,underwater/ocean_deep,33.26,lagoon,27.91,ocean,14.18,underwater/ocean_deep,33.26
+660,워터테마파크_아쿠아필드 하남_833.jpg,lecture_room,48.74,conference_center,23.31,home_theater,8.14,lecture_room,48.74
+661,워터테마파크_아쿠아필드 하남_834.jpg,sushi_bar,29.79,escalator/indoor,21.12,auditorium,9.03,sushi_bar,29.79
+662,워터테마파크_아쿠아필드 하남_835.jpg,shopfront,9.48,conference_center,9.35,ticket_booth,7.78,shopfront,9.48
+663,워터테마파크_웅진플레이도시_824.jpg,skyscraper,20.99,downtown,17.09,industrial_area,13.22,skyscraper,20.99
+664,워터테마파크_웅진플레이도시_825.jpg,ball_pit,50.08,kindergarden_classroom,12.38,childs_room,11.71,ball_pit,50.08
+665,워터테마파크_웅진플레이도시_826.jpg,bakery/shop,36.36,delicatessen,32.52,restaurant,12.23,bakery/shop,36.36
+666,워터테마파크_인스파이어 스플래시 베이_1293.jpg,shopping_mall/indoor,41.29,atrium/public,21.19,arcade,10.68,shopping_mall/indoor,41.29
+667,워터테마파크_인스파이어 스플래시 베이_1294.jpg,topiary_garden,91.97,florist_shop/indoor,5.1,zen_garden,0.53,topiary_garden,91.97
+668,워터테마파크_캐리비안베이_818.jpg,water_park,89.11,beach_house,1.99,amusement_park,1.87,water_park,89.11
+669,워터테마파크_캐리비안베이_819.jpg,racecourse,9.27,arch,7.35,rock_arch,6.95,racecourse,9.27
+670,워터테마파크_캐리비안베이_820.jpg,amusement_park,23.1,water_park,5.92,bazaar/outdoor,4.62,amusement_park,23.1
+671,워터테마파크_클럽디오아시스_1731.jpg,windmill,96.75,amusement_park,1.86,wind_farm,0.51,windmill,96.75
+672,워터테마파크_클럽디오아시스_1732.jpg,swimming_pool/indoor,46.29,jacuzzi/indoor,20.08,shopping_mall/indoor,7.39,swimming_pool/indoor,46.29
+673,워터테마파크_클럽디오아시스_1733.jpg,swimming_pool/indoor,43.34,jacuzzi/indoor,18.89,hot_spring,6.4,swimming_pool/indoor,43.34
+674,워터테마파크_파라다이스시티 씨메르_1273.jpg,locker_room,43.8,martial_arts_gym,9.97,gymnasium/indoor,3.83,locker_room,43.8
+675,유적지_갑곶돈대_1239.jpg,picnic_area,68.73,lawn,3.05,pavilion,2.11,picnic_area,68.73
+676,유적지_강화광성보_1223.jpg,booth/indoor,69.76,conference_center,4.85,ticket_booth,3.48,booth/indoor,69.76
+677,유적지_강화광성보_1224.jpg,medina,38.74,arch,20.1,arcade,7.9,medina,38.74
+678,유적지_덕진진_1250.jpg,booth/indoor,48.42,chalet,6.21,pet_shop,2.11,booth/indoor,48.42
+679,유적지_덕진진_1251.jpg,ice_shelf,33.51,booth/indoor,13.61,childs_room,9.14,ice_shelf,33.51
+680,유적지_덕진진_1252.jpg,temple/asia,66.02,pagoda,20.55,palace,7.09,temple/asia,66.02
+681,유적지_방화수류정_767.jpg,japanese_garden,28.11,botanical_garden,24.86,pond,24.79,japanese_garden,28.11
+682,유적지_방화수류정_768.jpg,japanese_garden,40.71,pond,24.16,botanical_garden,13.84,japanese_garden,40.71
+683,유적지_방화수류정_769.jpg,field/cultivated,71.41,vineyard,8.85,botanical_garden,6.63,field/cultivated,71.41
+684,유적지_제물포구락부_1253.jpg,bar,44.89,sushi_bar,34.42,wet_bar,12.09,bar,44.89
+685,유적지_제물포구락부_1254.jpg,house,31.74,cottage,10.32,synagogue/outdoor,8.45,house,31.74
+686,"육류,고기_골목안정원_404.jpg",hospital,68.24,building_facade,8.16,office_building,7.8,hospital,68.24
+687,"육류,고기_골목흑돼지_382.jpg",diner/outdoor,31.08,fastfood_restaurant,17.37,ice_cream_parlor,6.95,diner/outdoor,31.08
+688,의류판매_브런치_1511.jpg,restaurant,37.98,bakery/shop,14.73,cafeteria,9.66,restaurant,37.98
+689,인천1호선_검단호수공원역 인천1호선_1120.jpg,booth/indoor,17.05,office_cubicles,9.1,server_room,8.83,booth/indoor,17.05
+690,인터넷쇼핑몰_선데이브런치_1049.jpg,bar,34.04,restaurant,31.29,beer_garden,14.71,bar,34.04
+691,입출구_부산박물관 정문_1660.jpg,japanese_garden,44.43,pagoda,32.92,mausoleum,13.22,japanese_garden,44.43
+692,입출구_서서울 호수공원 입구마당_148.jpg,parking_lot,47.11,plaza,14.39,zen_garden,7.5,parking_lot,47.11
+693,입출구_호수공원 출입구1_1128.jpg,office_building,31.04,skyscraper,24.18,apartment_building/outdoor,11.13,office_building,31.04
+694,입출구_호수공원 출입구1_1129.jpg,science_museum,25.3,repair_shop,20.53,engine_room,13.79,science_museum,25.3
+695,입출구_호수공원 출입구1_1130.jpg,formal_garden,79.94,topiary_garden,2.74,botanical_garden,1.68,formal_garden,79.94
+696,전망대_G타워전망대_1422.jpg,bridge,14.73,amusement_park,8.26,carrousel,7.73,bridge,14.73
+697,전망대_G타워전망대_1423.jpg,downtown,21.58,industrial_area,21.46,skyscraper,17.14,downtown,21.58
+698,전망대_N서울타워_408.jpg,tower,79.32,water_tower,14.83,lighthouse,1.97,tower,79.32
+699,전망대_N서울타워_409.jpg,booth/indoor,80.51,conference_center,12.65,legislative_chamber,1.98,booth/indoor,80.51
+700,전망대_N서울타워_410.jpg,tower,68.49,skyscraper,6.71,downtown,4.77,tower,68.49
+701,전망대_가람누리 전망대_960.jpg,reception,16.29,museum/indoor,8.07,booth/indoor,6.39,reception,16.29
+702,전망대_가람누리 전망대_961.jpg,candy_store,78.04,childs_room,4.99,bakery/shop,2.23,candy_store,78.04
+703,전망대_감천문화마을 하늘마루전망대_1886.jpg,booth/indoor,30.69,drugstore,25.18,pharmacy,10.41,booth/indoor,30.69
+704,전망대_강화제적봉 평화전망대_1400.jpg,ticket_booth,92.07,bus_station/indoor,0.86,train_station/platform,0.78,ticket_booth,92.07
+705,전망대_강화제적봉 평화전망대_1401.jpg,beach_house,30.19,parking_garage/outdoor,19.29,hospital,8.03,beach_house,30.19
+706,전망대_강화제적봉 평화전망대_1402.jpg,sky,30.24,water_tower,7.34,ice_shelf,5.14,sky,30.24
+707,전망대_광진교8번가_417.jpg,library/indoor,36.52,classroom,9.14,archive,7.58,library/indoor,36.52
+708,전망대_광진교8번가_418.jpg,greenhouse/outdoor,91.68,greenhouse/indoor,3.43,arch,0.57,greenhouse/outdoor,91.68
+709,전망대_광진교8번가_419.jpg,artists_loft,16.37,lobby,13.95,airport_terminal,13.48,artists_loft,16.37
+710,전망대_교동도 망향대_1407.jpg,shopping_mall/indoor,47.52,general_store/indoor,11.04,pet_shop,7.18,shopping_mall/indoor,47.52
+711,전망대_교동도 망향대_1408.jpg,pet_shop,27.81,general_store/indoor,18.08,gift_shop,14.35,pet_shop,27.81
+712,전망대_구리타워_940.jpg,server_room,9.71,field/cultivated,6.19,office,5.46,server_room,9.71
+713,전망대_구리타워_941.jpg,water_tower,76.38,tower,19.96,lighthouse,2.59,water_tower,76.38
+714,전망대_금광호수하늘전망대_963.jpg,pet_shop,25.0,amusement_arcade,23.19,phone_booth,20.49,pet_shop,25.0
+715,전망대_금광호수하늘전망대_964.jpg,lake/natural,28.35,valley,16.16,river,10.97,lake/natural,28.35
+716,전망대_금광호수하늘전망대_965.jpg,parking_garage/outdoor,49.5,embassy,11.66,pagoda,8.04,parking_garage/outdoor,49.5
+717,전망대_김포국제공항 국내선청사 공항전망대_435.jpg,runway,71.93,airfield,16.01,hangar/outdoor,5.27,runway,71.93
+718,전망대_김포국제공항 국내선청사 공항전망대_436.jpg,runway,52.36,airfield,33.39,landing_deck,13.55,runway,52.36
+719,전망대_낙산공원 제1전망광장_426.jpg,promenade,22.2,aqueduct,6.35,moat/water,5.87,promenade,22.2
+720,전망대_낙산공원 제1전망광장_428.jpg,entrance_hall,19.45,crosswalk,18.5,plaza,15.87,entrance_hall,19.45
+721,전망대_대항전망대_1881.jpg,lagoon,31.75,coast,14.68,marsh,7.06,lagoon,31.75
+722,전망대_대항전망대_1882.jpg,operating_room,73.26,hospital_room,14.0,veterinarians_office,6.96,operating_room,73.26
+723,전망대_도라산전망대_942.jpg,japanese_garden,74.27,fishpond,14.39,pond,5.64,japanese_garden,74.27
+724,전망대_도라산전망대_943.jpg,hospital,34.28,campus,20.6,industrial_area,12.66,hospital,34.28
+725,전망대_도라산전망대_944.jpg,tree_farm,81.03,rice_paddy,7.4,orchard,1.75,tree_farm,81.03
+726,전망대_동백섬 누리마루전망대_1878.jpg,harbor,20.54,boathouse,15.36,pier,8.91,harbor,20.54
+727,전망대_동백섬 누리마루전망대_1879.jpg,harbor,44.22,pier,14.44,coast,7.83,harbor,44.22
+728,전망대_동백섬 누리마루전망대_1880.jpg,beach,20.42,harbor,15.82,coast,11.94,beach,20.42
+729,전망대_동생말 전망대_1863.jpg,gas_station,30.94,parking_lot,12.95,residential_neighborhood,8.15,gas_station,30.94
+730,전망대_동생말 전망대_1864.jpg,harbor,38.24,pier,9.62,promenade,9.3,harbor,38.24
+731,전망대_동생말 전망대_1865.jpg,greenhouse/outdoor,26.78,bridge,10.84,promenade,3.92,greenhouse/outdoor,26.78
+732,전망대_동작대교전망쉼터_425.jpg,lock_chamber,54.17,boat_deck,18.31,harbor,7.52,lock_chamber,54.17
+733,전망대_마장호수 전망대_936.jpg,ice_floe,21.32,childs_room,21.01,ice_shelf,17.88,ice_floe,21.32
+734,전망대_마장호수 전망대_937.jpg,classroom,39.43,kindergarden_classroom,23.39,recreation_room,10.31,classroom,39.43
+735,전망대_무무대전망대_432.jpg,harbor,22.96,sky,11.78,downtown,8.33,harbor,22.96
+736,전망대_무무대전망대_433.jpg,balcony/interior,40.35,promenade,12.94,village,11.02,balcony/interior,40.35
+737,전망대_무무대전망대_434.jpg,windmill,27.48,sky,25.45,rope_bridge,21.37,windmill,27.48
+738,전망대_백운산전망대_1443.jpg,valley,40.4,mountain_path,25.03,mountain,6.96,valley,40.4
+739,전망대_백운산전망대_1444.jpg,balcony/interior,48.14,promenade,8.33,boardwalk,5.75,balcony/interior,48.14
+740,전망대_부산엑스더스카이_1851.jpg,skyscraper,48.88,downtown,21.62,office_building,13.07,skyscraper,48.88
+741,전망대_부산엑스더스카이_1852.jpg,shoe_shop,46.47,drugstore,13.27,pharmacy,8.12,shoe_shop,46.47
+742,전망대_부산엑스더스카이_1853.jpg,server_room,22.68,shower,9.87,fountain,8.16,server_room,22.68
+743,전망대_부산타워_1857.jpg,industrial_area,18.56,harbor,13.13,oilrig,12.37,industrial_area,18.56
+744,전망대_부산타워_1859.jpg,skyscraper,44.53,downtown,20.49,office_building,10.87,skyscraper,44.53
+745,전망대_북서울꿈의숲 전망대_446.jpg,ticket_booth,60.17,drugstore,3.89,pharmacy,3.86,ticket_booth,60.17
+746,전망대_서울스카이_411.jpg,gymnasium/indoor,98.42,airport_terminal,0.76,martial_arts_gym,0.42,gymnasium/indoor,98.42
+747,전망대_서울스카이_412.jpg,jail_cell,27.26,bridge,12.71,rope_bridge,9.84,jail_cell,27.26
+748,전망대_서울스카이_413.jpg,boat_deck,35.18,ocean,17.83,balcony/interior,7.32,boat_deck,35.18
+749,전망대_선유도공원 선유도전망대_429.jpg,amusement_park,58.72,water_park,20.47,bridge,9.55,amusement_park,58.72
+750,전망대_선유도공원 선유도전망대_430.jpg,botanical_garden,50.49,rainforest,27.94,vegetable_garden,9.84,botanical_garden,50.49
+751,전망대_선유도공원 선유도전망대_431.jpg,parking_garage/outdoor,40.32,roof_garden,15.4,balcony/interior,14.12,parking_garage/outdoor,40.32
+752,전망대_송산그린시티전망대_952.jpg,field/cultivated,20.22,wind_farm,15.02,rice_paddy,9.6,field/cultivated,20.22
+753,전망대_수원산정상전망대_957.jpg,residential_neighborhood,53.39,topiary_garden,5.7,yard,3.64,residential_neighborhood,53.39
+754,전망대_수원산정상전망대_959.jpg,amusement_arcade,90.72,recreation_room,8.0,toyshop,0.42,amusement_arcade,90.72
+755,전망대_시화달전망대 시화이루나타워_930.jpg,ticket_booth,16.12,booth/indoor,10.59,elevator/door,6.87,ticket_booth,16.12
+756,전망대_아라마루전망대_1403.jpg,jewelry_shop,20.93,clean_room,7.79,beauty_salon,7.59,jewelry_shop,20.93
+757,전망대_아라마루전망대_1404.jpg,campsite,96.11,arch,0.51,stage/outdoor,0.46,campsite,96.11
+758,전망대_아라마루전망대_1405.jpg,booth/indoor,83.3,pharmacy,4.85,drugstore,3.47,booth/indoor,83.3
+759,전망대_아라타워_1409.jpg,parking_lot,34.44,driveway,29.16,junkyard,11.83,parking_lot,34.44
+760,전망대_아라타워_1410.jpg,parking_lot,76.05,driveway,4.6,raceway,2.74,parking_lot,76.05
+761,전망대_아라타워_1411.jpg,parking_lot,46.29,repair_shop,32.96,driveway,4.09,parking_lot,46.29
+762,전망대_아라폭포전망대_1430.jpg,booth/indoor,62.05,conference_center,9.71,pharmacy,4.17,booth/indoor,62.05
+763,전망대_아라폭포전망대_1431.jpg,office_building,22.23,downtown,22.22,hotel/outdoor,17.72,office_building,22.23
+764,전망대_아라폭포전망대_1432.jpg,sky,96.01,wind_farm,2.12,windmill,0.4,sky,96.01
+765,전망대_아미산전망대_1860.jpg,industrial_area,15.34,windmill,11.59,wind_farm,8.76,industrial_area,15.34
+766,전망대_아미산전망대_1861.jpg,sky,24.32,office_building,11.04,boat_deck,8.49,sky,24.32
+767,전망대_아미산전망대_1862.jpg,childs_room,85.49,kindergarden_classroom,4.08,nursery,3.98,childs_room,85.49
+768,전망대_에코델타시티전망대_1877.jpg,canal/natural,19.17,moat/water,13.35,golf_course,8.8,canal/natural,19.17
+769,전망대_영도하늘전망대_1869.jpg,amusement_park,17.57,tree_house,16.21,bridge,10.99,amusement_park,17.57
+770,전망대_영종씨사이드 바다전망대_1435.jpg,park,51.23,campus,21.05,botanical_garden,6.37,park,51.23
+771,전망대_오두산통일전망대_921.jpg,rainforest,13.3,rope_bridge,12.66,bridge,9.25,rainforest,13.3
+772,전망대_오두산통일전망대_922.jpg,clean_room,38.78,art_gallery,17.47,server_room,12.04,clean_room,38.78
+773,전망대_오륙도스카이워크_1842.jpg,boat_deck,53.2,balcony/interior,9.38,harbor,7.26,boat_deck,53.2
+774,전망대_오륙도스카이워크_1843.jpg,islet,72.25,lagoon,16.5,coast,4.1,islet,72.25
+775,전망대_오션스코프 경관조형물_1437.jpg,amusement_park,23.99,motel,8.88,stage/indoor,7.29,amusement_park,23.99
+776,전망대_오션스코프 경관조형물_1438.jpg,museum/outdoor,27.7,roof_garden,13.61,windmill,11.17,museum/outdoor,27.7
+777,전망대_용유하늘전망대_1439.jpg,escalator/indoor,14.34,balcony/interior,12.44,science_museum,4.37,escalator/indoor,14.34
+778,전망대_용유하늘전망대_1440.jpg,booth/indoor,18.82,topiary_garden,10.5,home_theater,4.42,booth/indoor,18.82
+779,전망대_용유하늘전망대_1441.jpg,balcony/interior,86.93,balcony/exterior,2.92,boat_deck,1.87,balcony/interior,86.93
+780,전망대_월미공원 전망대_1425.jpg,bridge,92.89,viaduct,1.69,ice_shelf,1.37,bridge,92.89
+781,전망대_월미공원 전망대_1426.jpg,harbor,49.87,skyscraper,8.09,islet,4.57,harbor,49.87
+782,전망대_인천공항전망대_1414.jpg,runway,87.37,airfield,4.81,heliport,4.59,runway,87.37
+783,전망대_임진각관광지_924.jpg,archive,93.02,server_room,1.26,museum/indoor,0.91,archive,93.02
+784,전망대_임진각관광지_925.jpg,kindergarden_classroom,39.49,booth/indoor,39.1,childs_room,5.91,kindergarden_classroom,39.49
+785,전망대_임진각관광지_926.jpg,skyscraper,21.58,tower,20.65,industrial_area,9.26,skyscraper,21.58
+786,전망대_장화리 일몰 조망지_1418.jpg,islet,51.27,ocean,15.03,coast,12.81,islet,51.27
+787,전망대_장화리 일몰 조망지_1419.jpg,ocean,33.77,coast,20.35,beach,13.51,ocean,33.77
+788,전망대_장화리 일몰 조망지_1420.jpg,islet,43.94,ocean,23.91,coast,15.04,islet,43.94
+789,전망대_정동전망대_414.jpg,downtown,51.21,skyscraper,23.7,office_building,5.72,downtown,51.21
+790,전망대_정동전망대_415.jpg,temple/asia,45.28,pagoda,12.94,palace,12.45,temple/asia,45.28
+791,전망대_청사포다릿돌전망대_1848.jpg,park,24.77,campsite,14.92,lawn,13.16,park,24.77
+792,전망대_청사포다릿돌전망대_1850.jpg,coast,19.28,ocean,19.17,bridge,15.38,coast,19.28
+793,전망대_청학배수지 전망대_1872.jpg,promenade,52.0,boardwalk,8.13,ocean,4.76,promenade,52.0
+794,전망대_청학배수지 전망대_1873.jpg,hot_spring,22.76,amphitheater,21.18,construction_site,9.11,hot_spring,22.76
+795,전망대_태종대 전망대_1845.jpg,atrium/public,20.85,lobby,15.59,artists_loft,7.88,atrium/public,20.85
+796,전망대_태풍전망대_948.jpg,pagoda,20.74,temple/asia,8.44,formal_garden,7.69,pagoda,20.74
+797,전망대_태풍전망대_950.jpg,pagoda,52.08,temple/asia,17.91,gazebo/exterior,10.95,pagoda,52.08
+798,전망대_하남유니온타워_945.jpg,industrial_area,22.96,water_tower,11.32,tower,10.69,industrial_area,22.96
+799,전망대_하남유니온타워_946.jpg,airport_terminal,38.92,valley,19.3,mountain,8.03,airport_terminal,38.92
+800,전망대_하남유니온타워_947.jpg,water_tower,16.47,lighthouse,15.78,tower,12.08,water_tower,16.47
+801,전망대_하늘전망대_442.jpg,sky,7.58,bridge,6.69,coast,6.34,sky,7.58
+802,전망대_화개산 전망대_1427.jpg,bridge,26.48,canal/urban,12.34,harbor,10.5,bridge,26.48
+803,전망대_화개산 전망대_1428.jpg,ocean,18.12,bridge,17.3,harbor,17.2,ocean,18.12
+804,전망대_화개산 전망대_1429.jpg,wind_farm,32.79,windmill,18.82,bridge,18.4,wind_farm,32.79
+805,전망대_황령산전망쉼터_1854.jpg,industrial_area,12.5,beach_house,8.51,lock_chamber,5.72,industrial_area,12.5
+806,전망대_황령산전망쉼터_1855.jpg,bakery/shop,15.53,coffee_shop,7.63,natural_history_museum,7.49,bakery/shop,15.53
+807,전망대_황령산전망쉼터_1856.jpg,construction_site,27.73,industrial_area,24.06,oilrig,10.1,construction_site,27.73
+808,전통찻집_비비비당_1464.jpg,parking_garage/outdoor,63.05,office_building,10.4,embassy,5.65,parking_garage/outdoor,63.05
+809,전통찻집_비비비당_1465.jpg,clean_room,48.49,igloo,4.3,ice_shelf,4.29,clean_room,48.49
+810,"제과,베이커리_금정사계_1538.jpg",zen_garden,37.14,repair_shop,11.24,jewelry_shop,6.81,zen_garden,37.14
+811,"제과,베이커리_금정사계_1540.jpg",wet_bar,26.64,reception,16.45,kitchen,14.55,wet_bar,26.64
+812,"제과,베이커리_도쿄팡야 대구범어점_1920.jpg",museum/indoor,10.69,igloo,7.73,ice_skating_rink/indoor,7.05,museum/indoor,10.69
+813,"제과,베이커리_도쿄팡야 대구범어점_1921.jpg",aquarium,49.77,nursery,8.22,discotheque,7.75,aquarium,49.77
+814,"제과,베이커리_르배 본점_1940.jpg",diner/outdoor,74.73,restaurant_patio,3.45,general_store/outdoor,3.44,diner/outdoor,74.73
+815,"제과,베이커리_마시안제빵소_973.jpg",ocean,39.68,coast,24.65,beach,12.32,ocean,39.68
+816,"제과,베이커리_아우어베이커리 도산본점_83.jpg",parking_garage/outdoor,41.0,library/outdoor,11.69,office_building,10.4,parking_garage/outdoor,41.0
+817,"제과,베이커리_아우어베이커리 도산본점_84.jpg",coffee_shop,41.64,beauty_salon,26.06,pharmacy,9.58,coffee_shop,41.64
+818,"제과,베이커리_야자수 브런치베이커리카페_529.jpg",butchers_shop,41.24,delicatessen,20.58,bakery/shop,16.08,butchers_shop,41.24
+819,"제과,베이커리_오월의종 타임스퀘어점_80.jpg",kindergarden_classroom,50.45,archive,11.25,classroom,10.4,kindergarden_classroom,50.45
+820,"제과,베이커리_하우스베이커리_565.jpg",florist_shop/indoor,32.58,candy_store,24.78,bar,11.52,florist_shop/indoor,32.58
+821,"족발,보쌈_골목족발_918.jpg",nursing_home,21.96,train_interior,11.9,bus_interior,11.47,nursing_home,21.96
+822,주차장_대구미술관 주차장_1998.jpg,physics_laboratory,33.46,music_studio,27.11,clean_room,8.82,physics_laboratory,33.46
+823,주차장_대구수목원 제3주차장_1971.jpg,recreation_room,41.09,playroom,31.46,amusement_arcade,9.87,recreation_room,41.09
+824,주차장_대구수목원 제3주차장_1972.jpg,golf_course,39.68,botanical_garden,18.42,park,5.76,golf_course,39.68
+825,주차장_대구수목원 제3주차장_1973.jpg,highway,62.07,field/wild,3.25,raceway,3.08,highway,62.07
+826,주차장_부산박물관 주차장_1654.jpg,park,20.82,orchard,16.5,botanical_garden,13.75,park,20.82
+827,참치회_골목참치_396.jpg,delicatessen,11.58,archaelogical_excavation,10.51,supermarket,5.33,delicatessen,11.58
+828,참치회_골목참치_397.jpg,jewelry_shop,37.25,delicatessen,11.54,candy_store,6.56,jewelry_shop,37.25
+829,참치회_골목참치_398.jpg,delicatessen,36.82,butchers_shop,15.46,candy_store,14.52,delicatessen,36.82
+830,체험학습장_인천수목원 유아숲체험원_1095.jpg,picnic_area,91.92,park,3.43,campsite,0.98,picnic_area,91.92
+831,체험학습장_인천수목원 유아숲체험원_1097.jpg,picnic_area,24.9,playground,15.56,patio,14.31,picnic_area,24.9
+832,추어_골목추어탕 본점_893.jpg,delicatessen,99.01,supermarket,0.31,bakery/shop,0.14,delicatessen,99.01
+833,추어_골목추어탕 본점_894.jpg,bakery/shop,53.14,delicatessen,23.13,fastfood_restaurant,6.96,bakery/shop,53.14
+834,추어_골목추어탕 본점_895.jpg,fishpond,49.57,delicatessen,23.01,candy_store,4.48,fishpond,49.57
+835,축제_대구수목원국화전시회_1968.jpg,roof_garden,29.7,vegetable_garden,20.38,formal_garden,13.0,roof_garden,29.7
+836,축제_대구수목원국화전시회_1969.jpg,forest_road,62.01,zen_garden,8.59,driveway,8.03,forest_road,62.01
+837,축제_대구수목원국화전시회_1970.jpg,zen_garden,91.64,roof_garden,5.12,greenhouse/indoor,1.97,zen_garden,91.64
+838,카페_고양이똥 브런치_1.jpg,archive,28.64,booth/indoor,27.93,museum/indoor,13.43,archive,28.64
+839,카페_고양이똥 브런치_2.jpg,booth/indoor,31.95,archive,9.17,drugstore,5.96,booth/indoor,31.95
+840,카페_고양이똥 브런치_3.jpg,booth/indoor,18.72,archive,15.27,art_gallery,12.74,booth/indoor,18.72
+841,카페_노티스_1473.jpg,harbor,28.22,promenade,13.18,beach_house,7.36,harbor,28.22
+842,카페_노티스_1474.jpg,home_theater,21.73,living_room,4.76,bow_window/indoor,4.58,home_theater,21.73
+843,카페_대구수목원 카페_1986.jpg,fastfood_restaurant,53.7,coffee_shop,9.43,chemistry_lab,4.25,fastfood_restaurant,53.7
+844,카페_대구수목원 카페_1988.jpg,office,45.5,office_cubicles,19.89,home_office,13.97,office,45.5
+845,카페_대연골목_1840.jpg,booth/indoor,99.0,conference_center,0.23,office,0.07,booth/indoor,99.0
+846,카페_데이지브런치카페_537.jpg,bakery/shop,24.87,ice_cream_parlor,24.07,restaurant,15.71,bakery/shop,24.87
+847,카페_라메르베이커리카페_1071.jpg,ice_cream_parlor,22.83,drugstore,14.75,ice_shelf,8.22,ice_cream_parlor,22.83
+848,카페_라메르베이커리카페_1072.jpg,lock_chamber,13.84,canal/natural,11.59,river,9.81,lock_chamber,13.84
+849,카페_라몽드브런치카페_1923.jpg,hospital,24.58,ticket_booth,10.58,lawn,5.58,hospital,24.58
+850,카페_레드브릿지_555.jpg,hospital,58.25,office_building,7.11,building_facade,6.62,hospital,58.25
+851,카페_레드브릿지_556.jpg,balcony/interior,50.03,bow_window/indoor,11.12,porch,3.37,balcony/interior,50.03
+852,카페_매화마름_1079.jpg,palace,23.57,pagoda,19.99,temple/asia,19.14,palace,23.57
+853,카페_메이드림_1068.jpg,formal_garden,39.51,japanese_garden,6.19,pond,5.11,formal_garden,39.51
+854,카페_메이드림_1069.jpg,arena/performance,20.95,shower,12.87,stage/indoor,12.2,arena/performance,20.95
+855,카페_메이드림_1070.jpg,campus,13.61,synagogue/outdoor,9.66,bowling_alley,7.82,campus,13.61
+856,카페_몬떼델피노_558.jpg,restaurant_patio,56.98,diner/outdoor,11.46,coffee_shop,11.32,restaurant_patio,56.98
+857,카페_바다보다_1086.jpg,auditorium,59.72,movie_theater/indoor,29.99,lecture_room,3.76,auditorium,59.72
+858,카페_바다보다_1087.jpg,butchers_shop,56.01,pet_shop,19.04,fishpond,5.46,butchers_shop,56.01
+859,카페_바다보다_1088.jpg,grotto,32.5,underwater/ocean_deep,30.23,aquarium,26.5,grotto,32.5
+860,카페_발리다_450.jpg,ballroom,41.53,orchestra_pit,14.52,stage/indoor,13.58,ballroom,41.53
+861,카페_발리다_451.jpg,ballroom,58.91,stage/indoor,11.58,stage/outdoor,5.71,ballroom,58.91
+862,카페_발리다_452.jpg,stage/indoor,63.16,stage/outdoor,14.49,ballroom,10.7,stage/indoor,63.16
+863,카페_브런치가든 계양구청점_1040.jpg,delicatessen,31.82,market/outdoor,27.0,pizzeria,16.93,delicatessen,31.82
+864,카페_브런치위치_522.jpg,elevator/door,68.6,elevator_lobby,21.24,bank_vault,4.3,elevator/door,68.6
+865,카페_브런치위치_523.jpg,stable,35.96,arena/rodeo,11.02,parking_garage/indoor,6.41,stable,35.96
+866,카페_브런치카페 이안_1530.jpg,bakery/shop,68.7,delicatessen,14.52,restaurant,6.08,bakery/shop,68.7
+867,카페_브런치포레_517.jpg,dining_hall,31.16,food_court,13.0,cafeteria,11.43,dining_hall,31.16
+868,카페_블루트렁크 오이도거북섬본점_465.jpg,bakery/shop,43.12,delicatessen,42.67,pizzeria,3.65,bakery/shop,43.12
+869,카페_블루트렁크 오이도거북섬본점_466.jpg,butchers_shop,36.72,delicatessen,25.98,market/outdoor,18.3,butchers_shop,36.72
+870,카페_블루트렁크 오이도거북섬본점_467.jpg,delicatessen,50.1,ice_cream_parlor,38.5,bakery/shop,4.04,delicatessen,50.1
+871,카페_비파티세리 공덕점_66.jpg,temple/asia,56.36,pagoda,21.23,palace,10.43,temple/asia,56.36
+872,카페_빌라드파넬_572.jpg,swimming_pool/outdoor,82.44,swimming_pool/indoor,6.89,balcony/exterior,3.01,swimming_pool/outdoor,82.44
+873,카페_스노잉클라우드_1484.jpg,ocean,23.09,coast,15.22,sky,7.4,ocean,23.09
+874,카페_스노잉클라우드_1486.jpg,booth/indoor,10.6,storage_room,10.22,art_gallery,8.6,booth/indoor,10.6
+875,카페_앵커커피로스터즈_474.jpg,restaurant,10.26,coffee_shop,9.79,delicatessen,7.43,restaurant,10.26
+876,카페_어반브런치_501.jpg,delicatessen,40.14,bakery/shop,24.01,restaurant,16.64,delicatessen,40.14
+877,카페_엠클리프_982.jpg,industrial_area,32.97,water_tower,17.31,construction_site,15.13,industrial_area,32.97
+878,카페_오라카페&브런치_1043.jpg,bakery/shop,50.49,restaurant,16.7,delicatessen,10.65,bakery/shop,50.49
+879,카페_인더매스 삼덕_1932.jpg,beer_garden,31.08,coffee_shop,16.41,ice_cream_parlor,15.55,beer_garden,31.08
+880,카페_인더매스 삼덕_1933.jpg,coffee_shop,17.07,utility_room,11.93,art_studio,8.54,coffee_shop,17.07
+881,카페_인더매스 삼덕_1934.jpg,art_school,17.89,coffee_shop,14.26,biology_laboratory,11.09,art_school,17.89
+882,카페_지금이곳_1059.jpg,restaurant,20.43,beer_garden,19.81,coffee_shop,17.13,restaurant,20.43
+883,카페_지금이곳_1060.jpg,balcony/interior,48.14,promenade,8.33,boardwalk,5.75,balcony/interior,48.14
+884,카페_지금이곳_1061.jpg,kennel/outdoor,8.62,temple/asia,8.28,house,6.1,kennel/outdoor,8.62
+885,카페_차덕분_975.jpg,balcony/interior,9.36,art_gallery,7.59,bedroom,6.97,balcony/interior,9.36
+886,카페_차덕분_976.jpg,bow_window/indoor,19.8,office,14.83,library/indoor,7.09,bow_window/indoor,19.8
+887,카페_차덕분_977.jpg,hospital,52.24,parking_garage/outdoor,23.97,office_building,12.73,hospital,52.24
+888,카페_칠암사계_1545.jpg,hangar/outdoor,38.52,industrial_area,26.54,loading_dock,17.09,hangar/outdoor,38.52
+889,카페_칠암사계_1546.jpg,airport_terminal,16.45,booth/indoor,11.58,office_cubicles,11.49,airport_terminal,16.45
+890,카페_카페 메르디_985.jpg,synagogue/outdoor,14.61,museum/outdoor,11.73,kasbah,9.37,synagogue/outdoor,14.61
+891,카페_카페 메르디_986.jpg,ocean,24.84,beach,19.74,coast,14.02,ocean,24.84
+892,카페_카페109하우스_987.jpg,arch,54.68,catacomb,10.46,bridge,5.13,arch,54.68
+893,카페_카페109하우스_988.jpg,veterinarians_office,95.22,kennel/outdoor,3.59,pet_shop,0.51,veterinarians_office,95.22
+894,카페_카페385_1460.jpg,bakery/shop,59.65,coffee_shop,29.21,restaurant,2.91,bakery/shop,59.65
+895,카페_카페385_1461.jpg,parking_garage/outdoor,12.58,museum/outdoor,10.27,office_building,8.73,parking_garage/outdoor,12.58
+896,카페_카페윤_1454.jpg,balcony/interior,54.59,beach_house,21.8,bow_window/indoor,8.94,balcony/interior,54.59
+897,카페_카페윤_1455.jpg,coffee_shop,21.86,ocean,12.24,coast,10.01,coffee_shop,21.86
+898,카페_카페윤_1456.jpg,industrial_area,23.9,office_building,9.09,hospital,8.69,industrial_area,23.9
+899,카페_카펠라_1901.jpg,elevator_lobby,11.24,server_room,6.48,science_museum,5.86,elevator_lobby,11.24
+900,카페_코스모40_1058.jpg,library/outdoor,34.32,balcony/exterior,26.62,parking_garage/outdoor,10.86,library/outdoor,34.32
+901,카페_쿠타팜테라스 브런치카페_1496.jpg,booth/indoor,32.76,candy_store,22.62,bakery/shop,8.73,booth/indoor,32.76
+902,카페_쿠타팜테라스 브런치카페_1497.jpg,candy_store,26.47,delicatessen,11.33,booth/indoor,9.55,candy_store,26.47
+903,카페_토크라피_969.jpg,coffee_shop,31.12,ice_cream_parlor,16.15,delicatessen,7.07,coffee_shop,31.12
+904,카페_토크라피_970.jpg,coffee_shop,53.09,ice_cream_parlor,45.22,bar,0.62,coffee_shop,53.09
+905,카페_토크라피_971.jpg,ice_cream_parlor,49.89,coffee_shop,48.31,restaurant,1.22,ice_cream_parlor,49.89
+906,카페_티아이티에프_1956.jpg,booth/indoor,28.61,ice_cream_parlor,12.25,ticket_booth,8.8,booth/indoor,28.61
+907,카페_티아이티에프_1957.jpg,bazaar/outdoor,13.7,medina,12.82,plaza,11.2,bazaar/outdoor,13.7
+908,카페_티아이티에프_1958.jpg,balcony/exterior,34.66,hospital,8.08,apartment_building/outdoor,7.42,balcony/exterior,34.66
+909,카페_파이브어클락_472.jpg,coffee_shop,67.66,bakery/shop,22.69,ice_cream_parlor,4.41,coffee_shop,67.66
+910,카페_포레스트아웃팅스 일산본점_542.jpg,loading_dock,11.6,shopfront,7.38,general_store/outdoor,6.45,loading_dock,11.6
+911,카페_하이바다_996.jpg,restaurant_patio,32.93,beer_garden,21.56,promenade,20.94,restaurant_patio,32.93
+912,카페_하이바다_997.jpg,restaurant_patio,19.03,promenade,10.34,pier,7.18,restaurant_patio,19.03
+913,카페_하이바다_998.jpg,promenade,24.4,boardwalk,19.48,beach_house,8.44,promenade,24.4
+914,카페_헤이든신씨어_1550.jpg,dam,31.69,valley,12.89,lake/natural,7.53,dam,31.69
+915,칼국수_골목손칼국수_1829.jpg,shopfront,30.68,diner/outdoor,18.33,general_store/outdoor,16.01,shopfront,30.68
+916,커피전문점_골목사이_915.jpg,slum,31.19,alley,11.52,fire_escape,7.48,slum,31.19
+917,커피전문점_골목사이_916.jpg,ticket_booth,39.15,medina,21.47,alley,11.96,ticket_booth,39.15
+918,커피전문점_그린홀리데이_1075.jpg,delicatessen,41.51,market/outdoor,15.04,bakery/shop,10.4,delicatessen,41.51
+919,커피전문점_배곧아띠_460.jpg,archive,12.16,pharmacy,10.0,booth/indoor,9.95,archive,12.16
+920,커피전문점_뻘다방_966.jpg,volleyball_court/outdoor,47.63,promenade,17.22,beach,8.9,volleyball_court/outdoor,47.63
+921,커피전문점_뻘다방_967.jpg,coffee_shop,40.1,porch,9.28,ice_cream_parlor,8.81,coffee_shop,40.1
+922,커피전문점_뻘다방_968.jpg,beach_house,77.45,motel,4.74,volleyball_court/outdoor,1.87,beach_house,77.45
+923,커피전문점_웨이브온커피_1445.jpg,picnic_area,20.09,ocean,16.91,coast,14.66,picnic_area,20.09
+924,커피전문점_웨이브온커피_1447.jpg,campsite,12.85,parking_lot,11.74,restaurant_patio,9.19,campsite,12.85
+925,커피전문점_해밀화_456.jpg,coffee_shop,36.38,restaurant,15.03,bar,13.49,coffee_shop,36.38
+926,테마파크_강화루지_1265.jpg,highway,30.71,valley,24.57,mountain,9.15,highway,30.71
+927,테마파크_강화루지_1267.jpg,beauty_salon,43.21,ice_cream_parlor,6.54,coffee_shop,4.87,beauty_salon,43.21
+928,테마파크_농협안성팜랜드_800.jpg,rice_paddy,34.22,field/cultivated,26.72,farm,15.81,rice_paddy,34.22
+929,테마파크_니지모리스튜디오_822.jpg,arcade,28.09,diner/outdoor,20.49,general_store/outdoor,11.3,arcade,28.09
+930,테마파크_니지모리스튜디오_823.jpg,childs_room,19.98,toyshop,18.24,amusement_arcade,17.8,childs_room,19.98
+931,테마파크_두리랜드_812.jpg,clean_room,22.49,chemistry_lab,10.25,pharmacy,8.6,clean_room,22.49
+932,테마파크_두리랜드_813.jpg,museum/indoor,25.94,department_store,15.68,gift_shop,9.78,museum/indoor,25.94
+933,테마파크_두리랜드_814.jpg,toyshop,13.88,clean_room,6.96,physics_laboratory,6.14,toyshop,13.88
+934,테마파크_런닝맨 인사동점_299.jpg,toyshop,66.04,playroom,12.64,kindergarden_classroom,2.94,toyshop,66.04
+935,테마파크_롯데월드 어드벤처 부산_1716.jpg,bazaar/indoor,12.09,amusement_park,8.04,throne_room,7.38,bazaar/indoor,12.09
+936,테마파크_롯데월드 어드벤처 부산_1717.jpg,conference_center,53.08,legislative_chamber,37.0,booth/indoor,8.79,conference_center,53.08
+937,테마파크_롯데월드 어드벤처 부산_1718.jpg,stage/indoor,59.1,arena/performance,7.77,ballroom,6.1,stage/indoor,59.1
+938,테마파크_루덴시아_827.jpg,medina,55.26,bazaar/outdoor,9.99,alley,8.85,medina,55.26
+939,테마파크_루덴시아_828.jpg,windmill,53.37,restaurant_patio,8.25,beer_garden,7.85,windmill,53.37
+940,테마파크_루덴시아_829.jpg,booth/indoor,77.7,candy_store,5.13,ice_cream_parlor,3.51,booth/indoor,77.7
+941,테마파크_마이랜드_1283.jpg,amusement_arcade,31.9,toyshop,15.18,candy_store,10.43,amusement_arcade,31.9
+942,테마파크_마이랜드_1284.jpg,water_park,53.89,amusement_park,34.76,stage/outdoor,9.01,water_park,53.89
+943,테마파크_마이랜드_1285.jpg,staircase,21.43,hospital_room,12.7,beauty_salon,7.86,staircase,21.43
+944,테마파크_매직아일랜드_307.jpg,skyscraper,52.97,downtown,13.92,tower,6.94,skyscraper,52.97
+945,테마파크_매직아일랜드_308.jpg,bridge,19.0,park,15.25,river,9.13,bridge,19.0
+946,테마파크_배미꾸미조각공원_1298.jpg,beach,25.75,snowfield,13.17,sky,12.52,beach,25.75
+947,테마파크_배미꾸미조각공원_1299.jpg,sky,22.52,beach,19.66,desert/vegetation,13.44,sky,22.52
+948,테마파크_배미꾸미조각공원_1300.jpg,iceberg,10.2,pond,9.04,fishpond,7.27,iceberg,10.2
+949,테마파크_법무부 부산솔로몬로파크_1738.jpg,lecture_room,39.76,conference_room,20.71,legislative_chamber,13.46,lecture_room,39.76
+950,테마파크_법무부 부산솔로몬로파크_1739.jpg,conference_center,22.61,legislative_chamber,16.88,reception,7.66,conference_center,22.61
+951,테마파크_봉화산옹기테마공원_303.jpg,baseball_field,34.84,igloo,12.79,desert/vegetation,12.26,baseball_field,34.84
+952,테마파크_봉화산옹기테마공원_304.jpg,street,26.92,crosswalk,20.17,park,11.9,street,26.92
+953,테마파크_봉화산옹기테마공원_305.jpg,cemetery,18.09,landfill,8.3,botanical_garden,6.86,cemetery,18.09
+954,테마파크_부산어린이대공원_1724.jpg,plaza,30.68,bazaar/outdoor,17.26,stage/outdoor,4.94,plaza,30.68
+955,테마파크_브릭캠퍼스 부산_1744.jpg,arena/performance,57.83,amphitheater,5.53,stadium/soccer,4.53,arena/performance,57.83
+956,테마파크_브릭캠퍼스 부산_1745.jpg,artists_loft,32.83,art_gallery,20.54,playroom,5.49,artists_loft,32.83
+957,테마파크_뽀로로&타요 콘텐츠 테마파크빌딩 월미_1274.jpg,playroom,21.34,kindergarden_classroom,16.56,amusement_arcade,11.06,playroom,21.34
+958,테마파크_뽀로로&타요 테마파크 월미도점_1307.jpg,playroom,76.8,childs_room,8.58,nursery,6.29,playroom,76.8
+959,테마파크_뽀로로&타요 테마파크 월미도점_1308.jpg,ice_skating_rink/indoor,27.04,science_museum,11.45,corridor,9.67,ice_skating_rink/indoor,27.04
+960,테마파크_뽀로로&타요 테마파크 월미도점_1309.jpg,discotheque,50.14,stage/indoor,29.14,arena/performance,9.18,discotheque,50.14
+961,테마파크_서울 어린이 대공원 놀이 동산_279.jpg,amusement_park,37.57,water_park,22.76,carrousel,20.35,amusement_park,37.57
+962,테마파크_서울 어린이 대공원 놀이 동산_280.jpg,water_park,24.43,amusement_park,12.53,beach_house,11.04,water_park,24.43
+963,테마파크_서울 어린이 대공원 놀이 동산_281.jpg,water_park,36.51,amusement_park,25.74,beach_house,4.53,water_park,36.51
+964,테마파크_서울대공원_803.jpg,science_museum,43.54,playground,32.69,amusement_arcade,3.76,science_museum,43.54
+965,테마파크_서울대공원_804.jpg,ticket_booth,47.38,booth/indoor,26.43,elevator/door,15.13,ticket_booth,47.38
+966,테마파크_서울랜드_809.jpg,server_room,47.12,home_theater,13.56,music_studio,7.56,server_room,47.12
+967,테마파크_서울어린이대공원_282.jpg,ticket_booth,14.87,kindergarden_classroom,8.39,parking_lot,7.48,ticket_booth,14.87
+968,테마파크_서울어린이대공원_283.jpg,ball_pit,56.75,nursery,15.29,playroom,7.75,ball_pit,56.75
+969,테마파크_서울어린이대공원_284.jpg,elevator/door,15.03,server_room,7.14,drugstore,5.81,elevator/door,15.03
+970,테마파크_스머프매직포레스트_296.jpg,ice_cream_parlor,11.89,candy_store,6.76,bakery/shop,5.74,ice_cream_parlor,11.89
+971,테마파크_스카이라인 루지_1728.jpg,highway,39.86,field/wild,16.38,raceway,7.01,highway,39.86
+972,테마파크_에버랜드_798.jpg,jewelry_shop,51.44,delicatessen,13.95,market/outdoor,8.29,jewelry_shop,51.44
+973,테마파크_용인농촌테마파크_839.jpg,florist_shop/indoor,57.58,botanical_garden,8.3,formal_garden,6.68,florist_shop/indoor,57.58
+974,테마파크_용인농촌테마파크_840.jpg,forest/broadleaf,75.39,sky,3.63,botanical_garden,3.15,forest/broadleaf,75.39
+975,테마파크_용인농촌테마파크_841.jpg,park,42.62,tree_farm,10.74,stage/outdoor,7.34,park,42.62
+976,테마파크_원마운트_831.jpg,art_school,15.47,kindergarden_classroom,7.29,cafeteria,6.42,art_school,15.47
+977,테마파크_원마운트_832.jpg,swimming_pool/indoor,50.67,jacuzzi/indoor,14.63,water_park,9.75,swimming_pool/indoor,50.67
+978,테마파크_인스파이어 디스커버리 파크_1302.jpg,reception,38.72,lobby,11.89,nursery,9.28,reception,38.72
+979,테마파크_인천공룡월드_1288.jpg,amusement_arcade,21.42,amusement_park,14.17,toyshop,11.33,amusement_arcade,21.42
+980,테마파크_인천대공원_1268.jpg,pavilion,36.66,promenade,18.56,picnic_area,11.93,pavilion,36.66
+981,테마파크_태종대오션플라잉테마파크_1740.jpg,islet,39.81,coast,13.0,ocean,11.06,islet,39.81
+982,테마파크_태종대오션플라잉테마파크_1741.jpg,legislative_chamber,32.06,conference_center,27.99,stage/outdoor,16.56,legislative_chamber,32.06
+983,테마파크_태종대오션플라잉테마파크_1742.jpg,balcony/exterior,32.06,office_building,15.87,building_facade,9.56,balcony/exterior,32.06
+984,테마파크_트릭아이뮤지엄_300.jpg,childs_room,73.57,aquarium,4.62,underwater/ocean_deep,4.25,childs_room,73.57
+985,테마파크_트릭아이뮤지엄_301.jpg,shopfront,91.7,diner/outdoor,0.84,fastfood_restaurant,0.84,shopfront,91.7
+986,테마파크_파라다이스시티 원더박스_1280.jpg,amusement_park,27.91,science_museum,19.54,amusement_arcade,11.34,amusement_park,27.91
+987,테마파크_파라다이스시티 원더박스_1281.jpg,amusement_arcade,71.34,toyshop,13.78,carrousel,2.9,amusement_arcade,71.34
+988,테마파크_퍼스트가든_815.jpg,arcade,38.64,medina,13.81,plaza,7.55,arcade,38.64
+989,테마파크_퍼스트가든_817.jpg,gazebo/exterior,92.65,pavilion,2.88,mosque/outdoor,0.63,gazebo/exterior,92.65
+990,테마파크시설_롯데월드어드벤처 부산점 자이언트디거_1751.jpg,drugstore,40.29,sky,16.25,pharmacy,8.26,drugstore,40.29
+991,테마파크시설_어린이대공원 능동숲속의무대_312.jpg,amphitheater,41.56,stadium/football,23.41,stadium/soccer,13.96,amphitheater,41.56
+992,테마파크시설_어린이대공원 능동숲속의무대_313.jpg,racecourse,45.95,football_field,13.83,bullring,13.55,racecourse,45.95
+993,테마파크시설_어린이대공원 능동숲속의무대_314.jpg,baseball_field,21.38,golf_course,20.44,stadium/baseball,9.99,baseball_field,21.38
+994,테마파크시설_어린이대공원 팔각당_318.jpg,pagoda,76.85,temple/asia,13.67,pavilion,2.1,pagoda,76.85
+995,한식_골목보리밥_1385.jpg,delicatessen,55.37,bakery/shop,19.44,ice_cream_parlor,12.91,delicatessen,55.37
+996,한식_골목보리밥_1387.jpg,nursery,29.29,bakery/shop,15.6,hospital_room,12.54,nursery,29.29
+997,한식_골목순대국밥집_1374.jpg,shopfront,36.04,pet_shop,18.77,hardware_store,5.71,shopfront,36.04
+998,한식_연탄골목_911.jpg,beer_hall,19.38,cafeteria,16.99,food_court,13.32,beer_hall,19.38
+999,한식_연탄골목_912.jpg,shopfront,59.57,fastfood_restaurant,9.07,candy_store,8.15,shopfront,59.57
+1000,한식_연탄골목_913.jpg,candy_store,49.61,supermarket,22.05,delicatessen,12.15,candy_store,49.61
+1001,한식뷔페_골목한식뷔페_1367.jpg,delicatessen,32.44,supermarket,17.74,department_store,5.83,delicatessen,32.44
+1002,한식뷔페_골목한식뷔페_1368.jpg,pet_shop,19.02,pantry,18.79,bakery/shop,18.51,pet_shop,19.02
+1003,한식뷔페_골목한식뷔페_1369.jpg,shopfront,26.03,diner/outdoor,17.0,fastfood_restaurant,8.51,shopfront,26.03
+1004,"해물,생선_골목안집_1816.jpg",ticket_booth,57.59,booth/indoor,29.23,pharmacy,2.76,ticket_booth,57.59
+1005,"해물,생선_골목안집_1817.jpg",bakery/shop,88.79,pizzeria,3.63,delicatessen,3.45,bakery/shop,88.79
+1006,"해물,생선_골목안채_887.jpg",ticket_booth,16.03,diner/outdoor,13.84,alley,10.04,ticket_booth,16.03
+1007,"해물,생선_골목안채_888.jpg",booth/indoor,86.37,ticket_booth,1.68,bookstore,1.64,booth/indoor,86.37
+1008,"해물,생선_골목안채_889.jpg",artists_loft,37.67,jail_cell,25.66,basement,9.37,artists_loft,37.67
+1009,"해물,생선_골목쭈꾸미_1825.jpg",operating_room,11.84,repair_shop,8.3,basement,7.55,operating_room,11.84
+1010,"해물,생선_골목쭈꾸미_1826.jpg",ice_cream_parlor,30.08,fastfood_restaurant,16.46,booth/indoor,13.54,ice_cream_parlor,30.08
+1011,"해물,생선_오빠가찜해줄께 부산본점_1666.jpg",bakery/shop,48.05,delicatessen,20.54,ice_cream_parlor,15.07,bakery/shop,48.05
+1012,"해물,생선_오빠가찜해줄께 부산본점_1667.jpg",ice_cream_parlor,60.2,bakery/shop,13.07,delicatessen,10.94,ice_cream_parlor,60.2
+1013,"향교,서당_교동향교_1259.jpg",motel,10.82,parking_lot,7.13,desert_road,6.8,motel,10.82
+1014,"향교,서당_교동향교_1260.jpg",trench,97.92,excavation,0.36,badlands,0.24,trench,97.92
+1015,"향교,서당_교동향교_1261.jpg",zen_garden,43.93,forest_road,13.71,cemetery,12.51,zen_garden,43.93
+1016,"향교,서당_동래향교_1704.jpg",temple/asia,64.84,pagoda,24.78,pavilion,2.43,temple/asia,64.84
+1017,"향교,서당_동래향교_1705.jpg",florist_shop/indoor,80.88,botanical_garden,14.67,vegetable_garden,1.7,florist_shop/indoor,80.88
+1018,"향교,서당_동래향교_1706.jpg",booth/indoor,53.91,pharmacy,7.28,elevator_lobby,7.09,booth/indoor,53.91
+1019,호수_석촌호수 서호_136.jpg,skyscraper,47.51,tower,19.19,downtown,12.99,skyscraper,47.51
+1020,호수_석촌호수 서호_138.jpg,park,34.96,beer_garden,18.0,campus,17.89,park,34.96
+1021,"호프,요리주점_골목_1803.jpg",amusement_arcade,40.84,drugstore,22.24,recreation_room,5.11,amusement_arcade,40.84
+1022,"호프,요리주점_골목_1804.jpg",amusement_arcade,38.71,drugstore,22.63,recreation_room,5.11,amusement_arcade,38.71
+1023,"호프,요리주점_골목_1805.jpg",nursery,39.19,playroom,28.99,kindergarden_classroom,19.64,nursery,39.19
