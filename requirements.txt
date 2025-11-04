@@ -15,9 +15,7 @@ boto3                  # S3 사용 시
 openai                 # OpenAI API
 bcrypt
 tqdm
-open_clip
+open-clip-torch
 PIL
 torch
 torchvision
-os
-io
